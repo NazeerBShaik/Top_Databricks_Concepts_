@@ -1,0 +1,1 @@
+These are the list of important topics in databricks every data engineer should master 
