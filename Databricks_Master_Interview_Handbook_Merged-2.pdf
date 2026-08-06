@@ -1,0 +1,8348 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 75
+/Kids [ 4 0 R 11 0 R 14 0 R 21 0 R 24 0 R 31 0 R 34 0 R 41 0 R 44 0 R 51 0 R 54 0 R 61 0 R 68 0 R 71 0 R 78 0 R 81 0 R 88 0 R 91 0 R 98 0 R 101 0 R 108 0 R 111 0 R 118 0 R 125 0 R 132 0 R 139 0 R 142 0 R 149 0 R 156 0 R 163 0 R 166 0 R 171 0 R 179 0 R 181 0 R 188 0 R 190 0 R 197 0 R 199 0 R 206 0 R 208 0 R 215 0 R 217 0 R 224 0 R 226 0 R 233 0 R 235 0 R 242 0 R 244 0 R 250 0 R 256 0 R 263 0 R 270 0 R 277 0 R 284 0 R 291 0 R 298 0 R 306 0 R 312 0 R 314 0 R 321 0 R 328 0 R 335 0 R 342 0 R 349 0 R 356 0 R 363 0 R 369 0 R 375 0 R 381 0 R 387 0 R 393 0 R 400 0 R 407 0 R 414 0 R 421 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3767
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+BT 1 0 0 1 0 4 Tm 18 TL /F2 14 Tf 0 0 0 rg (Chapter 1 \226 Introduction to Databricks & Lakehouse Platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (What is Databricks?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 625.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Databricks is a unified analytics platform built on Apache Spark. It enables data engineering, data) Tj T* (science, machine learning, streaming, SQL analytics, and AI workloads on a single Lakehouse) Tj T* (platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 599.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Evolution of Modern Data Platforms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 514.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (Traditional Database) Tj T* (        |) Tj T* ( Data Warehouse) Tj T* (        |) Tj T* (   Data Lake) Tj T* (        |) Tj T* ( Lakehouse Platform) Tj T* (        |) Tj T* (Databricks) Tj T* ET
+Q
+q
+1 0 0 1 78 488.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Data Warehouse vs Data Lake vs Lakehouse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 446.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (A data warehouse is optimized for structured analytics. A data lake stores structured and) Tj T* (unstructured data. A Lakehouse combines the reliability of a warehouse with the flexibility and) Tj T* (scalability of a data lake.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 420.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (High-Level Databricks Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 326.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 80 Tm /F4 8 Tf 8.8 TL (Sources \(ERP, APIs, Files, Kafka\)) Tj T* (              |) Tj T* (     Azure Data Factory) Tj T* (              |) Tj T* (      ADLS Gen2 \(Bronze\)) Tj T* (              |) Tj T* (     Azure Databricks) Tj T* (   Bronze -> Silver -> Gold) Tj T* (              |) Tj T* (   Power BI / AI / ML) Tj T* ET
+Q
+q
+1 0 0 1 78 300.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Apache Spark Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 270.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Spark processes distributed data using a driver program and multiple executors. It supports batch) Tj T* (processing, streaming, SQL, machine learning, and graph processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 244.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Databricks Workspace Components) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 214.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Key components include Workspaces, Notebooks, Clusters, Jobs, Repos, Unity Catalog, SQL) Tj T* (Warehouses, Dashboards, and Workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 188.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Cluster Types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 158.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (All-Purpose Clusters are used for interactive development. Job Clusters are created for scheduled) Tj T* (jobs and terminate automatically after execution, reducing cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 132.6898 cm
+q
+BT 1 0 0 1 0 2 Tm 14 TL /F3 12 Tf 0 0 0 rg (Photon & Delta Lake) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 102.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Photon accelerates SQL and Delta workloads using a vectorized execution engine. Delta Lake) Tj T* (provides ACID transactions, schema enforcement, time travel, and scalable metadata.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1010
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 749.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 707.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.106744 Tw (1. What is Databricks? 2. Explain the Lakehouse architecture. 3. Difference between Data Lake and) Tj T* 0 Tw -0.091526 Tw (Lakehouse. 4. What are Job Clusters and All-Purpose Clusters? 5. What is Photon? 6. Why is Delta) Tj T* 0 Tw (Lake important?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 681.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Quick Revision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 651.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Remember: Databricks = Spark + Delta Lake + Lakehouse + Governance + AI. Explain every) Tj T* (concept with a real project example during interviews.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 16 0 R
+/F1-0 17 0 R
+/F2 18 0 R
+/F3 19 0 R
+/F4 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 3794
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 2 \226 Delta Lake Internals \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (ACID Transactions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.132219 Tw (Delta Lake guarantees Atomicity, Consistency, Isolation and Durability. Concurrent users can safely) Tj T* 0 Tw (read and write data without corrupting the table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Time Travel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 585.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Time Travel lets you query historical versions of a Delta table for auditing, debugging and rollback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 577.8898 cm
+Q
+q
+1 0 0 1 78 551.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark - Time Travel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 501.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 36 Tm /F4 8 Tf 8.8 TL (df = spark.read.format\("delta"\) \\) Tj T* (    .option\("versionAsOf", 3\) \\) Tj T* (    .load\("/mnt/silver/customers"\)) Tj T*  T* (df.show\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 475.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (MERGE INTO \(UPSERT\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 445.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (MERGE combines INSERT, UPDATE and DELETE operations in one statement. It is widely used) Tj T* (for incremental loading and SCD Type 1/2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 437.8898 cm
+Q
+q
+1 0 0 1 78 411.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark MERGE Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 326.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (from delta.tables import DeltaTable) Tj T*  T* (delta_tbl = DeltaTable.forPath\(spark, "/mnt/silver/customers"\)) Tj T*  T* (\(delta_tbl.alias\("t"\)) Tj T* ( .merge\(source_df.alias\("s"\), "t.id = s.id"\)) Tj T* ( .whenMatchedUpdateAll\(\)) Tj T* ( .whenNotMatchedInsertAll\(\)) Tj T* ( .execute\(\)\)) Tj T* ET
+Q
+q
+1 0 0 1 78 300.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Schema Enforcement vs Schema Evolution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 270.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Schema Enforcement rejects incompatible data. Schema Evolution allows new columns to be) Tj T* (added when explicitly enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 262.6898 cm
+Q
+q
+1 0 0 1 78 236.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (OPTIMIZE and Z-ORDER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 206.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (OPTIMIZE compacts many small files into fewer larger files. Z-ORDER colocates related data to) Tj T* (improve query performance on frequently filtered columns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 198.6898 cm
+Q
+q
+1 0 0 1 78 172.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (OPTIMIZE Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 149.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 9.6 Tm /F4 8 Tf 8.8 TL (OPTIMIZE sales) Tj T* (ZORDER BY \(customer_id\);) Tj T* ET
+Q
+q
+1 0 0 1 78 123.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (VACUUM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 93.08976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (VACUUM removes obsolete files that are no longer referenced by the Delta transaction log, helping) Tj T* (reclaim storage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 85.08976 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 16 0 R
+/F1-0 23 0 R
+/F2 18 0 R
+/F3 19 0 R
+/F4 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 1383
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 749.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (VACUUM Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 735.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 .8 Tm /F4 8 Tf 8.8 TL (VACUUM sales RETAIN 168 HOURS;) Tj T* ET
+Q
+q
+1 0 0 1 78 709.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Production Best Practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 667.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Use MERGE for incremental loads, schedule OPTIMIZE for large tables, run VACUUM carefully) Tj T* (after retention requirements, partition wisely, and enable Change Data Feed where downstream) Tj T* (incremental processing is needed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 659.0898 cm
+Q
+q
+1 0 0 1 78 633.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 555.0898 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Time Travel?) Tj  T* (2. Explain MERGE INTO.) Tj  T* (3. Difference between Schema Enforcement and Schema Evolution.) Tj  T* (4. Why do we use OPTIMIZE and Z-ORDER?) Tj  T* (5. What does VACUUM do?) Tj  T* (6. How would you implement an incremental load using Delta Lake?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 26 0 R
+/F1-0 27 0 R
+/F2 28 0 R
+/F3 29 0 R
+/F4 30 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 3518
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 2 \226 Delta Lake Internals \(Part 3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Change Data Feed \(CDF\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 625.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Change Data Feed tracks row-level INSERT, UPDATE and DELETE operations in Delta tables. It) Tj T* (allows downstream applications to process only changed records instead of reading the entire) Tj T* (table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 617.8898 cm
+Q
+q
+1 0 0 1 78 591.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Enable CDF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 515.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 62.4 Tm /F4 8 Tf 8.8 TL (CREATE TABLE sales \() Tj T* (  id INT,) Tj T* (  amount DOUBLE) Tj T* (\)) Tj T* (USING DELTA) Tj T* (TBLPROPERTIES \() Tj T* (  delta.enableChangeDataFeed = true) Tj T* (\);) Tj T* ET
+Q
+q
+1 0 0 1 78 489.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Read CDF using PySpark) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 421.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 53.6 Tm /F4 8 Tf 8.8 TL (cdf = \(spark.read) Tj T* (    .format\("delta"\)) Tj T* (    .option\("readChangeFeed", "true"\)) Tj T* (    .option\("startingVersion", 5\)) Tj T* (    .table\("sales"\)\)) Tj T*  T* (cdf.show\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 395.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Delta Table Versioning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 365.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Every successful transaction creates a new version of the Delta table. Versions support auditing,) Tj T* (rollback and incremental processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 357.8898 cm
+Q
+q
+1 0 0 1 78 331.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (View History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 317.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 .8 Tm /F4 8 Tf 8.8 TL (DESCRIBE HISTORY sales;) Tj T* ET
+Q
+q
+1 0 0 1 78 291.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Checkpoint Files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 261.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Delta periodically creates checkpoint files to avoid replaying every JSON transaction log. This) Tj T* (speeds up table loading and metadata processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 253.0898 cm
+Q
+q
+1 0 0 1 78 227.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Optimistic Concurrency Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 197.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.025855 Tw (Delta uses optimistic concurrency. Multiple writers can work simultaneously, but conflicting commits) Tj T* 0 Tw (are detected before completion to preserve consistency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 189.0898 cm
+Q
+q
+1 0 0 1 78 163.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (End-to-End Incremental Load) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 85.08976 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (Typical production flow:) Tj  T* (1. Ingest source data.) Tj  T* (2. Read only changed records using CDF.) Tj  T* (3. Apply MERGE INTO.) Tj  T* (4. Validate counts.) Tj  T* (5. Publish to Gold layer.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 26 0 R
+/F1-0 33 0 R
+/F2 28 0 R
+/F3 29 0 R
+/F4 30 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 1513
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 755.8898 cm
+Q
+q
+1 0 0 1 78 729.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (MERGE with Incremental Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 679.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 36 Tm /F4 8 Tf 8.8 TL (deltaTable.alias\("t"\) \\) Tj T* (.merge\(cdf.alias\("s"\), "t.id = s.id"\) \\) Tj T* (.whenMatchedUpdateAll\(\) \\) Tj T* (.whenNotMatchedInsertAll\(\) \\) Tj T* (.execute\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 653.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Performance Tips) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 623.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Enable CDF only where required, partition large tables carefully, schedule OPTIMIZE, use) Tj T* (ZORDER on frequently filtered columns, and monitor file sizes to avoid the small-file problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 615.8898 cm
+Q
+q
+1 0 0 1 78 589.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 511.8898 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Change Data Feed?) Tj  T* (2. How do you enable CDF?) Tj  T* (3. Explain Delta table versioning.) Tj  T* (4. What are checkpoint files?) Tj  T* (5. Explain optimistic concurrency control.) Tj  T* (6. How would you build an incremental pipeline using CDF and MERGE?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/Contents 35 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 36 0 R
+/F1-0 37 0 R
+/F2 38 0 R
+/F3 39 0 R
+/F4 40 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 3348
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 3 \226 Unity Catalog \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (What is Unity Catalog?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Unity Catalog is Databricks' centralized governance solution. It provides a single place to manage) Tj T* (data, AI assets, permissions, auditing and lineage across all workspaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Why Unity Catalog?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 573.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (It eliminates inconsistent access control by providing centralized security, fine-grained permissions) Tj T* (and unified governance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 565.8898 cm
+Q
+q
+1 0 0 1 78 539.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 454.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (Metastore) Tj T* (   |) Tj T* (Catalog) Tj T* (   |) Tj T* (Schema) Tj T* (   |) Tj T* (Tables / Views / Volumes) Tj T* (   |) Tj T* (Users & Groups) Tj T* ET
+Q
+q
+1 0 0 1 78 428.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Object Hierarchy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 398.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.134037 Tw (Metastore is the top-level container. Each Metastore contains Catalogs. Catalogs contain Schemas,) Tj T* 0 Tw (and Schemas contain Tables, Views, Volumes and Functions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 390.6898 cm
+Q
+q
+1 0 0 1 78 364.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (SQL Examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 288.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 62.4 Tm /F4 8 Tf 8.8 TL (CREATE CATALOG sales;) Tj T*  T* (CREATE SCHEMA sales.bronze;) Tj T*  T* (CREATE TABLE sales.bronze.customers\() Tj T* ( id INT,) Tj T* ( name STRING) Tj T* (\);) Tj T* ET
+Q
+q
+1 0 0 1 78 262.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Privileges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 232.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Common privileges include USE CATALOG, USE SCHEMA, SELECT, MODIFY, CREATE TABLE,) Tj T* (CREATE VIEW and ALL PRIVILEGES.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 224.2898 cm
+Q
+q
+1 0 0 1 78 198.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Grant Permission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 165.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 18.4 Tm /F4 8 Tf 8.8 TL (GRANT SELECT) Tj T* (ON TABLE sales.bronze.customers) Tj T* (TO `data_analyst`;) Tj T* ET
+Q
+q
+1 0 0 1 78 139.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Benefits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 109.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Centralized governance, row and column security, data lineage, auditing, secure sharing and) Tj T* (support for multiple workspaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 101.8898 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/Contents 42 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 36 0 R
+/F1-0 43 0 R
+/F2 38 0 R
+/F3 39 0 R
+/F4 40 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 660
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 749.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 683.8898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Unity Catalog?) Tj  T* (2. Explain Metastore, Catalog and Schema.) Tj  T* (3. Why is Unity Catalog preferred over Hive Metastore?) Tj  T* (4. How do you grant table access?) Tj  T* (5. What governance features does Unity Catalog provide?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/Contents 45 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 46 0 R
+/F1-0 47 0 R
+/F2 48 0 R
+/F3 49 0 R
+/F4 50 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+45 0 obj
+<<
+/Length 3819
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 3 \226 Unity Catalog \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Row-Level Security \(RLS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Row-Level Security restricts users to specific rows based on their role or identity. It is commonly) Tj T* (implemented using Dynamic Views in Unity Catalog.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Dynamic View Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 562.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 27.2 Tm /F4 8 Tf 8.8 TL (CREATE VIEW sales.secure_orders AS) Tj T* (SELECT *) Tj T* (FROM sales.orders) Tj T* (WHERE region = current_user\(\);) Tj T* ET
+Q
+q
+1 0 0 1 78 536.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Column-Level Security \(CLS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 506.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Column-Level Security protects sensitive columns such as salary, PAN, Aadhaar or customer PII.) Tj T* (Only authorized users can view the original values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 498.6898 cm
+Q
+q
+1 0 0 1 78 472.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Masking Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 396.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 62.4 Tm /F4 8 Tf 8.8 TL (SELECT) Tj T* ( customer_id,) Tj T* ( CASE) Tj T* (   WHEN is_account_group_member\('HR'\)) Tj T* (   THEN salary) Tj T* (   ELSE NULL) Tj T* ( END AS salary) Tj T* (FROM employees;) Tj T* ET
+Q
+q
+1 0 0 1 78 370.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Data Lineage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 340.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Unity Catalog automatically tracks where data originated, which jobs transformed it, and which) Tj T* (downstream tables or dashboards consume it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 332.2898 cm
+Q
+q
+1 0 0 1 78 306.2898 cm
+q
+BT 1 0 0 1 0 2 Tm 14 TL /F3 12 Tf 0 0 0 rg (Storage Credentials & External Locations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 276.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Storage Credentials securely store cloud authentication. External Locations map cloud storage) Tj T* (paths such as ADLS Gen2, Amazon S3 or Google Cloud Storage for governed access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 268.2898 cm
+Q
+q
+1 0 0 1 78 242.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Managed vs External Tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 212.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Managed tables store both metadata and data under Unity Catalog management. External tables) Tj T* (keep data in customer-managed storage while Unity Catalog manages metadata and permissions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 204.2898 cm
+Q
+q
+1 0 0 1 78 178.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Unity Catalog Volumes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 148.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Volumes allow governance of non-tabular files such as CSVs, images, PDFs, ML models and) Tj T* (configuration files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 140.2898 cm
+Q
+q
+1 0 0 1 78 114.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 84.28976 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Row-Level Security?) Tj  T* (2. How is Column-Level Security implemented?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+46 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+49 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+50 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 46 0 R
+/F1-0 53 0 R
+/F2 48 0 R
+/F3 49 0 R
+/F4 50 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 539
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 691.8898 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg  T* (3. Explain Dynamic Views.) Tj  T* (4. What is Data Lineage?) Tj  T* (5. Difference between Managed and External Tables?) Tj  T* (6. What are Storage Credentials and External Locations?) Tj  T* (7. What are Unity Catalog Volumes?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+54 0 obj
+<<
+/Contents 55 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 56 0 R
+/F1-0 57 0 R
+/F2 58 0 R
+/F3 59 0 R
+/F4 60 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+55 0 obj
+<<
+/Length 4087
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 3 \226 Unity Catalog \(Part 3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Delta Sharing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Delta Sharing is an open protocol that allows organizations to securely share live data with external) Tj T* (partners without copying data. Consumers always access the latest version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Create a Share \(SQL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 571.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 18.4 Tm /F4 8 Tf 8.8 TL (CREATE SHARE finance_share;) Tj T* (ALTER SHARE finance_share) Tj T* (ADD TABLE finance.gold_transactions;) Tj T* ET
+Q
+q
+1 0 0 1 78 545.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Cross-Workspace Governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 503.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (A single Unity Catalog Metastore can govern multiple Databricks workspaces. This provides) Tj T* (consistent security policies, permissions and data discovery across development, test and) Tj T* (production environments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 495.4898 cm
+Q
+q
+1 0 0 1 78 469.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Audit Logs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 439.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Unity Catalog records operations such as logins, permission changes, table creation and data) Tj T* (access. Audit logs support compliance, security investigations and regulatory reporting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 431.4898 cm
+Q
+q
+1 0 0 1 78 405.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Enterprise Governance Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 351.4898 cm
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F1 10 Tf 0 0 0 rg (Typical enterprise setup:) Tj  T* (Azure AD -> Unity Catalog -> Metastore -> Catalogs \(Bronze, Silver, Gold\) -> Schemas ->) Tj T* (Tables/Views -> Power BI, ML and external consumers.) Tj  T* (All access is controlled using groups and least-privilege permissions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 343.4898 cm
+Q
+q
+1 0 0 1 78 317.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Best Practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 258.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 44.8 Tm /F4 8 Tf 8.8 TL (\177 Use groups instead of assigning permissions to users.) Tj T* (\177 Separate Dev, Test and Prod catalogs.) Tj T* (\177 Enable audit logging.) Tj T* (\177 Use managed identities/service principals.) Tj T* (\177 Follow least-privilege access.) Tj T* (\177 Review permissions periodically.) Tj T* ET
+Q
+q
+1 0 0 1 78 232.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Real-World Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 190.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.126526 Tw (A global retail company stores Sales, HR and Finance data in separate catalogs. HR users can only) Tj T* 0 Tw (access HR data, Finance users only Finance data, while executives receive governed read-only) Tj T* (access to Gold reporting tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 182.6898 cm
+Q
+q
+1 0 0 1 78 156.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Advanced Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 78.68976 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Delta Sharing?) Tj  T* (2. How does Unity Catalog support multiple workspaces?) Tj  T* (3. Explain audit logs in Unity Catalog.) Tj  T* (4. How would you secure PII data?) Tj  T* (5. Describe an enterprise governance architecture using Unity Catalog.) Tj  T* (6. What are the best practices for managing permissions?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+56 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+57 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+59 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+60 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 63 0 R
+/F1-0 64 0 R
+/F2 65 0 R
+/F3 66 0 R
+/F4 67 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 3229
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 4 \226 Lakeflow Pipelines \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (What is Lakeflow?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lakeflow is Databricks' modern orchestration framework for building reliable batch and streaming) Tj T* (data pipelines. It simplifies ingestion, transformation, data quality and operational monitoring.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Key Components) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 525.8898 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (\177 Declarative Pipelines) Tj  T* (\177 Auto Loader) Tj  T* (\177 Auto CDC) Tj  T* (\177 Expectations \(Data Quality\)) Tj  T* (\177 Pipeline Scheduling) Tj  T* (\177 Event Logs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 517.8898 cm
+Q
+q
+1 0 0 1 78 491.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (High-Level Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 345.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 132.8 Tm /F4 8 Tf 8.8 TL (Sources) Tj T* (\(SQL, APIs, Files, Kafka\)) Tj T* (        |) Tj T* (   Auto Loader) Tj T* (        |) Tj T* ( Bronze Tables) Tj T* (        |) Tj T* (Transformations) Tj T* (        |) Tj T* ( Silver Tables) Tj T* (        |) Tj T* (Aggregations) Tj T* (        |) Tj T* ( Gold Tables) Tj T* (        |) Tj T* ( BI / AI / ML) Tj T* ET
+Q
+q
+1 0 0 1 78 319.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Batch vs Streaming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 289.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Batch pipelines process data at scheduled intervals, whereas streaming pipelines process data) Tj T* (continuously as new events arrive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 281.0898 cm
+Q
+q
+1 0 0 1 78 255.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Data Quality Expectations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 225.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lakeflow supports expectations to validate records, drop invalid rows, quarantine bad data or fail a) Tj T* (pipeline when quality rules are violated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 217.0898 cm
+Q
+q
+1 0 0 1 78 191.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 79.48976 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 97.6 Tm /F4 8 Tf 8.8 TL (from pyspark.sql import functions as F) Tj T*  T* (df = \(spark.readStream) Tj T* (      .format\("cloudFiles"\)) Tj T* (      .option\("cloudFiles.format","csv"\)) Tj T* (      .load\("/mnt/raw/orders"\)\)) Tj T*  T* (clean_df = df.filter\(F.col\("order_id"\).isNotNull\(\)\)) Tj T*  T* (\(clean_df.writeStream) Tj T* ( .option\("checkpointLocation","/mnt/chk/orders"\)) Tj T* ( .toTable\("bronze.orders"\)\)) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+65 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+66 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+67 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+68 0 obj
+<<
+/Contents 69 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 63 0 R
+/F1-0 70 0 R
+/F2 65 0 R
+/F3 66 0 R
+/F4 67 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+69 0 obj
+<<
+/Length 1043
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 749.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Real-World Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 719.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (An e-commerce company continuously ingests order files into Bronze using Auto Loader, validates) Tj T* (mandatory columns, enriches customer data in Silver and publishes daily sales KPIs to Gold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+Q
+q
+1 0 0 1 78 685.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 619.8898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Lakeflow?) Tj  T* (2. How is Lakeflow different from traditional ETL?) Tj  T* (3. Explain Batch vs Streaming pipelines.) Tj  T* (4. What are Expectations?) Tj  T* (5. How does Auto Loader fit into Lakeflow?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+70 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+71 0 obj
+<<
+/Contents 72 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 73 0 R
+/F1-0 74 0 R
+/F2 75 0 R
+/F3 76 0 R
+/F4 77 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 3496
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 4 \226 Lakeflow Pipelines \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Auto CDC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Auto CDC automatically detects inserts, updates and deletes from supported sources and applies) Tj T* (incremental changes to Delta tables, reducing custom ETL code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Declarative Pipelines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 573.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lakeflow Declarative Pipelines allow engineers to define data transformations and dependencies) Tj T* (while Databricks manages execution, optimization and recovery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 565.8898 cm
+Q
+q
+1 0 0 1 78 539.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Sample Pipeline Flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 419.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 106.4 Tm /F4 8 Tf 8.8 TL (Source Database) Tj T* (      |) Tj T* ( Auto CDC) Tj T* (      |) Tj T* ( Bronze Delta) Tj T* (      |) Tj T* ( Data Quality Rules) Tj T* (      |) Tj T* ( Silver Delta) Tj T* (      |) Tj T* ( Business Aggregations) Tj T* (      |) Tj T* ( Gold Reporting) Tj T* ET
+Q
+q
+1 0 0 1 78 393.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example - Incremental Processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 308.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (from pyspark.sql.functions import col) Tj T*  T* (bronze_df = spark.read.table\("bronze.orders"\)) Tj T*  T* (silver_df = bronze_df.filter\(col\("order_status"\) != "CANCELLED"\)) Tj T*  T* (\(silver_df.write) Tj T* ( .mode\("overwrite"\)) Tj T* ( .saveAsTable\("silver.orders"\)\)) Tj T* ET
+Q
+q
+1 0 0 1 78 282.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Pipeline Monitoring) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 252.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lakeflow provides pipeline execution history, event logs, data quality metrics and failure details to) Tj T* (simplify monitoring and troubleshooting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 244.2898 cm
+Q
+q
+1 0 0 1 78 218.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Error Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 188.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Configure expectations to drop invalid rows, quarantine bad records or fail the pipeline. Implement) Tj T* (retries and checkpointing for streaming workloads.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 180.2898 cm
+Q
+q
+1 0 0 1 78 154.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Performance Best Practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 124.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Use Auto Loader for file ingestion, partition large tables carefully, enable Photon, use OPTIMIZE) Tj T* (and ZORDER, and monitor small-file generation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 116.2898 cm
+Q
+q
+1 0 0 1 78 90.28976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Production Scenario) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+73 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+74 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+75 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+76 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+77 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+78 0 obj
+<<
+/Contents 79 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 73 0 R
+/F1-0 80 0 R
+/F2 75 0 R
+/F3 76 0 R
+/F4 77 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+79 0 obj
+<<
+/Length 989
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 727.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (A financial services company ingests transactions every few minutes using Auto CDC. Data quality) Tj T* (rules validate mandatory fields, Silver applies business logic, and Gold serves Power BI) Tj T* (dashboards with near real-time data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 719.8898 cm
+Q
+q
+1 0 0 1 78 693.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 627.8898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Auto CDC?) Tj  T* (2. What are Declarative Pipelines?) Tj  T* (3. How do you monitor Lakeflow pipelines?) Tj  T* (4. How do you handle bad records?) Tj  T* (5. How would you optimize a production Lakeflow pipeline?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+80 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+81 0 obj
+<<
+/Contents 82 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 83 0 R
+/F1-0 84 0 R
+/F2 85 0 R
+/F3 86 0 R
+/F4 87 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+82 0 obj
+<<
+/Length 3557
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 5 \226 Medallion Architecture \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (What is Medallion Architecture?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Medallion Architecture is a layered data design pattern that organizes data into Bronze, Silver and) Tj T* (Gold layers. It improves data quality, governance, scalability and maintainability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 465.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 124 Tm /F4 8 Tf 8.8 TL (Sources) Tj T* (\(SQL | APIs | Kafka | Files\)) Tj T* (          |) Tj T* (      Bronze Layer) Tj T* (          |) Tj T* ( Cleaning & Validation) Tj T* (          |) Tj T* (      Silver Layer) Tj T* (          |) Tj T* ( Business Logic) Tj T* ( Aggregations) Tj T* (          |) Tj T* (       Gold Layer) Tj T* (          |) Tj T* ( Power BI / ML / AI) Tj T* ET
+Q
+q
+1 0 0 1 78 439.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Bronze Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 409.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The Bronze layer stores raw ingested data exactly as received. Minimal transformations are) Tj T* (applied, preserving the original data for replay and auditing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 401.8898 cm
+Q
+q
+1 0 0 1 78 375.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Silver Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 345.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The Silver layer cleans, validates, deduplicates and enriches Bronze data. Invalid records are) Tj T* (handled and business-ready datasets are created.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 337.8898 cm
+Q
+q
+1 0 0 1 78 311.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Gold Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 281.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The Gold layer contains curated, aggregated and business-focused datasets optimized for) Tj T* (reporting, dashboards, machine learning and downstream applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 273.8898 cm
+Q
+q
+1 0 0 1 78 247.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example - Bronze to Silver) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 162.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (from pyspark.sql.functions import col) Tj T*  T* (bronze = spark.table\("bronze.orders"\)) Tj T*  T* (silver = \(bronze) Tj T* (          .filter\(col\("order_id"\).isNotNull\(\)\)) Tj T* (          .dropDuplicates\(["order_id"]\)\)) Tj T*  T* (silver.write.mode\("overwrite"\).saveAsTable\("silver.orders"\)) Tj T* ET
+Q
+q
+1 0 0 1 78 136.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Real-World Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 106.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (An online retailer ingests raw order data into Bronze, validates customer and product information in) Tj T* (Silver, and publishes daily sales summaries and KPIs in Gold for Power BI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 98.68976 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+83 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+84 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+85 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+86 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+87 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+88 0 obj
+<<
+/Contents 89 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 83 0 R
+/F1-0 90 0 R
+/F2 85 0 R
+/F3 86 0 R
+/F4 87 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+89 0 obj
+<<
+/Length 676
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 749.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 683.8898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Medallion Architecture?) Tj  T* (2. Explain Bronze, Silver and Gold layers.) Tj  T* (3. What transformations belong in each layer?) Tj  T* (4. Why is Medallion Architecture widely used?) Tj  T* (5. How would you implement Bronze to Silver using PySpark?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+90 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+91 0 obj
+<<
+/Contents 92 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 93 0 R
+/F1-0 94 0 R
+/F2 95 0 R
+/F3 96 0 R
+/F4 97 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+92 0 obj
+<<
+/Length 3305
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 5 \226 Medallion Architecture \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (End-to-End Medallion Pipeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 625.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Data is ingested into Bronze, cleansed and standardized in Silver, and transformed into) Tj T* (business-ready Gold tables. Each layer has a clear responsibility, making pipelines easier to) Tj T* (maintain and troubleshoot.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 617.8898 cm
+Q
+q
+1 0 0 1 78 591.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Pipeline Flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 436.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 141.6 Tm /F4 8 Tf 8.8 TL (Source Systems) Tj T* (      |) Tj T* ( Bronze \(Raw\)) Tj T* (      |) Tj T* (Validation) Tj T* (Deduplication) Tj T* (Standardization) Tj T* (      |) Tj T* ( Silver \(Clean\)) Tj T* (      |) Tj T* (Business Rules) Tj T* (Aggregations) Tj T* (KPIs) Tj T* (      |) Tj T* ( Gold \(Reporting\)) Tj T* (      |) Tj T* (Power BI / AI / ML) Tj T* ET
+Q
+q
+1 0 0 1 78 410.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Incremental Processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 380.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Incremental loads use watermark columns, Change Data Feed \(CDF\), or MERGE operations so) Tj T* (only changed records are processed instead of reloading the full dataset.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 372.2898 cm
+Q
+q
+1 0 0 1 78 346.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark MERGE Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 252.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 80 Tm /F4 8 Tf 8.8 TL (from delta.tables import DeltaTable) Tj T*  T* (target = DeltaTable.forName\(spark, "silver.orders"\)) Tj T*  T* (\(target.alias\("t"\)) Tj T* ( .merge\(source_df.alias\("s"\),) Tj T* (        "t.order_id = s.order_id"\)) Tj T* ( .whenMatchedUpdateAll\(\)) Tj T* ( .whenNotMatchedInsertAll\(\)) Tj T* ( .execute\(\)\)) Tj T* ET
+Q
+q
+1 0 0 1 78 226.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (SCD in Medallion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 196.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (SCD Type 1 overwrites existing values without history. SCD Type 2 preserves historical records by) Tj T* (expiring old rows and inserting new versions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 188.2898 cm
+Q
+q
+1 0 0 1 78 162.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Data Quality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 132.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Validate mandatory fields, remove duplicates, quarantine bad records, enforce schema rules and) Tj T* (maintain audit columns such as created_date and updated_date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 124.2898 cm
+Q
+q
+1 0 0 1 78 98.28976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Performance Optimization) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+93 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+94 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+95 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+96 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+97 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+98 0 obj
+<<
+/Contents 99 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 93 0 R
+/F1-0 100 0 R
+/F2 95 0 R
+/F3 96 0 R
+/F4 97 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+99 0 obj
+<<
+/Length 1381
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 739.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Partition large Delta tables, enable Photon, use OPTIMIZE and ZORDER, cache reused) Tj T* (DataFrames, and avoid unnecessary shuffle operations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 731.8898 cm
+Q
+q
+1 0 0 1 78 705.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Real-World Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 663.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (A healthcare platform ingests patient events into Bronze, validates records in Silver, applies SCD) Tj T* (Type 2 for patient dimensions, and publishes Gold datasets for operational dashboards and) Tj T* (analytics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 655.8898 cm
+Q
+q
+1 0 0 1 78 629.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 563.8898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. How do you implement an end-to-end Medallion Architecture?) Tj  T* (2. How do you handle incremental loading?) Tj  T* (3. Where should SCD Type 2 be implemented?) Tj  T* (4. How do you manage bad records?) Tj  T* (5. How would you optimize Medallion pipelines in production?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+100 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+101 0 obj
+<<
+/Contents 102 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 103 0 R
+/F1-0 104 0 R
+/F2 105 0 R
+/F3 106 0 R
+/F4 107 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+102 0 obj
+<<
+/Length 3612
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 6 \226 Auto Loader \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (What is Auto Loader?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Auto Loader is Databricks' scalable file ingestion feature built on Structured Streaming. It) Tj T* (automatically discovers new files in cloud storage and ingests them incrementally into Delta tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Why Auto Loader?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 573.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (It efficiently processes millions of files, supports schema inference and evolution, avoids duplicate) Tj T* (ingestion, and scales better than repeatedly listing cloud storage folders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 565.8898 cm
+Q
+q
+1 0 0 1 78 539.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 428.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 97.6 Tm /F4 8 Tf 8.8 TL (ADLS / S3 / GCS) Tj T* (        |) Tj T* ( New Files Arrive) Tj T* (        |) Tj T* (   Auto Loader) Tj T* (        |) Tj T* (Schema Detection) Tj T* (Checkpoint) Tj T* (        |) Tj T* ( Bronze Delta Table) Tj T* (        |) Tj T* ( Silver / Gold) Tj T* ET
+Q
+q
+1 0 0 1 78 402.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Discovery Modes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 372.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Directory Listing periodically scans folders for new files. File Notification mode integrates with cloud) Tj T* (event services for faster and more efficient detection in production.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 364.2898 cm
+Q
+q
+1 0 0 1 78 338.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 253.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (df = \(spark.readStream) Tj T* (    .format\("cloudFiles"\)) Tj T* (    .option\("cloudFiles.format","csv"\)) Tj T* (    .option\("cloudFiles.schemaLocation","/mnt/schema/orders"\)) Tj T* (    .load\("/mnt/raw/orders"\)\)) Tj T*  T* (\(df.writeStream) Tj T* (   .option\("checkpointLocation","/mnt/checkpoints/orders"\)) Tj T* (   .toTable\("bronze.orders"\)\)) Tj T* ET
+Q
+q
+1 0 0 1 78 227.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Schema Evolution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 197.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Auto Loader can automatically detect new columns and evolve the target schema when configured,) Tj T* (reducing manual maintenance for changing source files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 189.0898 cm
+Q
+q
+1 0 0 1 78 163.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Checkpointing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 133.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Checkpoint locations store streaming progress and metadata so pipelines can recover safely after) Tj T* (failures without reprocessing already ingested files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 125.0898 cm
+Q
+q
+1 0 0 1 78 99.08976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+103 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+104 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+105 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+106 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+107 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+108 0 obj
+<<
+/Contents 109 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 103 0 R
+/F1-0 110 0 R
+/F2 105 0 R
+/F3 106 0 R
+/F4 107 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+109 0 obj
+<<
+/Length 550
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 703.8898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Auto Loader?) Tj  T* (2. Directory Listing vs File Notification?) Tj  T* (3. What is schemaLocation?) Tj  T* (4. Why are checkpoints required?) Tj  T* (5. How does Auto Loader prevent duplicate processing?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 695.8898 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+110 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+111 0 obj
+<<
+/Contents 112 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 113 0 R
+/F1-0 114 0 R
+/F2 115 0 R
+/F3 116 0 R
+/F4 117 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+112 0 obj
+<<
+/Length 4019
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 6 \226 Auto Loader \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Auto Loader Internals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Auto Loader tracks processed files using metadata and checkpoints instead of repeatedly scanning) Tj T* (every file. This makes ingestion scalable even when millions of files are present.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Rescued Data Column) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 561.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (When incoming records contain unexpected columns or malformed values, Auto Loader can store) Tj T* -0.025627 Tw (them in the _rescued_data column instead of failing the entire pipeline. This helps preserve data for) Tj T* 0 Tw (later analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 553.8898 cm
+Q
+q
+1 0 0 1 78 527.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Schema Hints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 497.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Schema hints allow engineers to explicitly define the data type of selected columns while still) Tj T* (allowing Auto Loader to infer the remaining schema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 489.8898 cm
+Q
+q
+1 0 0 1 78 463.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example \226 Rescued Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 396.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 53.6 Tm /F4 8 Tf 8.8 TL (df = \(spark.readStream) Tj T* (    .format\("cloudFiles"\)) Tj T* (    .option\("cloudFiles.format", "json"\)) Tj T* (    .option\("rescuedDataColumn", "_rescued_data"\)) Tj T* (    .load\("/mnt/raw/events"\)\)) Tj T*  T* (df.writeStream.toTable\("bronze.events"\)) Tj T* ET
+Q
+q
+1 0 0 1 78 370.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Handling Bad Records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 340.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Configure schema validation, quarantine invalid records, monitor the rescued data column, and) Tj T* (create separate pipelines for data correction instead of stopping production ingestion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 332.2898 cm
+Q
+q
+1 0 0 1 78 306.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Performance Optimization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 276.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Use File Notification mode whenever possible, optimize checkpoint storage, avoid tiny files, enable) Tj T* (Photon, partition Delta tables appropriately, and periodically run OPTIMIZE and VACUUM.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 268.2898 cm
+Q
+q
+1 0 0 1 78 242.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Production Design Pattern) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 200.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (A production pipeline ingests files through Auto Loader into the Bronze layer, validates records in) Tj T* (Silver, captures invalid data separately, and publishes curated Gold tables for reporting and) Tj T* (machine learning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 192.2898 cm
+Q
+q
+1 0 0 1 78 166.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Advanced Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 100.2898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is the purpose of the _rescued_data column?) Tj  T* (2. When should you use Schema Hints?) Tj  T* (3. How do you handle malformed records?) Tj  T* (4. How does Auto Loader scale to millions of files?) Tj  T* (5. What are the best practices for production Auto Loader pipelines?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+113 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+114 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+115 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+116 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+117 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+118 0 obj
+<<
+/Contents 119 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 120 0 R
+/F1-0 121 0 R
+/F2 122 0 R
+/F3 123 0 R
+/F4 124 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+119 0 obj
+<<
+/Length 3463
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 7 \226 Change Data Feed \(CDF\) \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (What is Change Data Feed \(CDF\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 625.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Change Data Feed \(CDF\) is a Delta Lake feature that captures row-level changes such as inserts,) Tj T* (updates, and deletes. Instead of reading the entire table, downstream processes can read only the) Tj T* (changed data, improving performance and reducing processing time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 617.8898 cm
+Q
+q
+1 0 0 1 78 591.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (How CDF Works) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 561.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (When CDF is enabled on a Delta table, every committed transaction records change information.) Tj T* (Consumers can query only the modified rows between specific table versions or timestamps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 553.8898 cm
+Q
+q
+1 0 0 1 78 527.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Enable CDF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 442.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (CREATE TABLE silver.orders \() Tj T* (  order_id INT,) Tj T* (  customer_id INT,) Tj T* (  amount DECIMAL\(10,2\)) Tj T* (\)) Tj T* (USING DELTA) Tj T* (TBLPROPERTIES \() Tj T* (  delta.enableChangeDataFeed = true) Tj T* (\);) Tj T* ET
+Q
+q
+1 0 0 1 78 416.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Read Changes Using SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 393.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 9.6 Tm /F4 8 Tf 8.8 TL (SELECT *) Tj T* (FROM table_changes\('silver.orders', 5, 10\);) Tj T* ET
+Q
+q
+1 0 0 1 78 367.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 299.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 53.6 Tm /F4 8 Tf 8.8 TL (changes_df = \(spark.read) Tj T* (    .format\("delta"\)) Tj T* (    .option\("readChangeFeed", "true"\)) Tj T* (    .option\("startingVersion", 5\)) Tj T* (    .table\("silver.orders"\)\)) Tj T*  T* (display\(changes_df\)) Tj T* ET
+Q
+q
+1 0 0 1 78 273.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Real-World Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 231.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.076201 Tw (A banking application processes millions of transactions daily. Instead of reprocessing the complete) Tj T* 0 Tw (transactions table, downstream pipelines use CDF to process only newly inserted, updated, or) Tj T* (deleted records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 223.4898 cm
+Q
+q
+1 0 0 1 78 197.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 131.4898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What is Change Data Feed?) Tj  T* (2. Why should we use CDF?) Tj  T* (3. How do you enable CDF?) Tj  T* (4. How do you read changes using SQL and PySpark?) Tj  T* (5. What are the advantages of CDF over full-table processing?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+120 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+121 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+122 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+123 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+124 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+125 0 obj
+<<
+/Contents 126 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 127 0 R
+/F1-0 128 0 R
+/F2 129 0 R
+/F3 130 0 R
+/F4 131 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+126 0 obj
+<<
+/Length 3737
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 7 \226 Change Data Feed \(CDF\) \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (CDF Metadata Columns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CDF adds metadata such as _change_type, _commit_version and _commit_timestamp. These) Tj T* (fields help identify what changed and when the transaction was committed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Change Types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 562.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 27.2 Tm /F4 8 Tf 8.8 TL (insert) Tj T* (update_preimage) Tj T* (update_postimage) Tj T* (delete) Tj T* ET
+Q
+q
+1 0 0 1 78 536.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Incremental ETL with CDF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 506.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Instead of reading an entire Delta table every run, ETL pipelines read only the changes since the) Tj T* (last processed version. This significantly reduces compute time and cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 498.6898 cm
+Q
+q
+1 0 0 1 78 472.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 405.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 53.6 Tm /F4 8 Tf 8.8 TL (changes = \(spark.read) Tj T* (    .format\("delta"\)) Tj T* (    .option\("readChangeFeed","true"\)) Tj T* (    .option\("startingVersion",25\)) Tj T* (    .table\("silver.orders"\)\)) Tj T*  T* (changes.filter\("_change_type = 'insert'"\).show\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 379.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Using CDF for SCD Type 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 349.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CDF simplifies SCD Type 2 implementations by identifying updated records. Existing records can) Tj T* (be expired and new versions inserted without scanning the full source table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 341.0898 cm
+Q
+q
+1 0 0 1 78 315.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Performance Best Practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 285.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Track the last processed version, process changes in small batches, combine CDF with MERGE,) Tj T* (optimize Delta tables regularly, and archive old data when appropriate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 277.0898 cm
+Q
+q
+1 0 0 1 78 251.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Production Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 221.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Source systems write to Bronze, transformations populate Silver, CDF captures incremental) Tj T* (changes, and Gold reporting tables are refreshed using only the changed records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 213.0898 cm
+Q
+q
+1 0 0 1 78 187.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Advanced Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 121.0898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. What metadata columns are available in CDF?) Tj  T* (2. Explain insert, update_preimage, update_postimage and delete.) Tj  T* (3. How do you build incremental ETL using CDF?) Tj  T* (4. How is CDF used in SCD Type 2?) Tj  T* (5. What are the production best practices for CDF?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+127 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+128 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+129 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+130 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+131 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+132 0 obj
+<<
+/Contents 133 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 134 0 R
+/F1-0 135 0 R
+/F2 136 0 R
+/F3 137 0 R
+/F4 138 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+133 0 obj
+<<
+/Length 3544
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 8 \226 Performance Optimization \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Spark Execution Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Every Spark job is converted into a logical plan, optimized by the Catalyst Optimizer, transformed) Tj T* (into a physical plan, and then executed as stages and tasks across the cluster.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Execution Flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 483.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 106.4 Tm /F4 8 Tf 8.8 TL (DataFrame) Tj T* (    |) Tj T* (Logical Plan) Tj T* (    |) Tj T* (Catalyst Optimizer) Tj T* (    |) Tj T* (Physical Plan) Tj T* (    |) Tj T* (Stages) Tj T* (    |) Tj T* (Tasks) Tj T* (    |) Tj T* (Cluster Execution) Tj T* ET
+Q
+q
+1 0 0 1 78 457.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Catalyst Optimizer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 427.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Catalyst automatically performs predicate pushdown, constant folding, projection pruning, join) Tj T* (reordering, and other optimizations to generate an efficient execution plan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 419.4898 cm
+Q
+q
+1 0 0 1 78 393.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Adaptive Query Execution \(AQE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 363.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (AQE optimizes queries during runtime by dynamically changing join strategies, coalescing shuffle) Tj T* (partitions, and handling skewed data based on actual execution statistics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 355.4898 cm
+Q
+q
+1 0 0 1 78 329.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Partitioning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 299.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Choose partition columns with balanced cardinality and frequent filtering. Avoid too many tiny) Tj T* (partitions or very large partitions that cause data skew.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 291.4898 cm
+Q
+q
+1 0 0 1 78 265.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Caching vs Persistence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 235.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Caching stores data in memory for faster reuse. Persistence supports additional storage levels) Tj T* (such as memory-and-disk when datasets do not fit completely in memory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 209.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 141.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 53.6 Tm /F4 8 Tf 8.8 TL (df = spark.table\("silver.sales"\)) Tj T*  T* (df.cache\(\)) Tj T*  T* (result = df.groupBy\("country"\).sum\("amount"\)) Tj T*  T* (result.show\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 115.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 85.88976 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. Explain the Spark execution plan.) Tj  T* (2. What does Catalyst Optimizer do?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+134 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+135 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+136 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+137 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+138 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+139 0 obj
+<<
+/Contents 140 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 134 0 R
+/F1-0 141 0 R
+/F2 136 0 R
+/F3 137 0 R
+/F4 138 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+140 0 obj
+<<
+/Length 426
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 715.8898 cm
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F1 10 Tf 0 0 0 rg  T* (3. What is Adaptive Query Execution?) Tj  T* (4. How do you choose partition columns?) Tj  T* (5. Cache vs Persist?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+141 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+142 0 obj
+<<
+/Contents 143 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 144 0 R
+/F1-0 145 0 R
+/F2 146 0 R
+/F3 147 0 R
+/F4 148 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+143 0 obj
+<<
+/Length 3744
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 8 \226 Performance Optimization \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Broadcast Join) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Broadcast Join sends the smaller table to every executor, avoiding expensive shuffle operations. It) Tj T* (is ideal when one table is small enough to fit in executor memory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example \226 Broadcast Join) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 536.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 53.6 Tm /F4 8 Tf 8.8 TL (from pyspark.sql.functions import broadcast) Tj T*  T* (result = fact_df.join\() Tj T* (    broadcast\(dim_df\),) Tj T* (    "customer_id",) Tj T* (    "inner") Tj T* (\)) Tj T* ET
+Q
+q
+1 0 0 1 78 510.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Shuffle Operations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 480.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Shuffle redistributes data across executors during joins, aggregations, DISTINCT, GROUP BY, and) Tj T* (ORDER BY. Reducing unnecessary shuffles significantly improves performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 472.2898 cm
+Q
+q
+1 0 0 1 78 446.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Handling Data Skew) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 416.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Identify skewed keys using execution metrics. Use salting, repartitioning, AQE skew handling, or) Tj T* (broadcast joins to distribute data more evenly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 408.2898 cm
+Q
+q
+1 0 0 1 78 382.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Repartition vs Coalesce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 352.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Repartition performs a full shuffle and can increase or decrease partitions. Coalesce primarily) Tj T* (reduces partitions while minimizing shuffle, making it suitable before writing output files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 326.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (OPTIMIZE, ZORDER and Photon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 296.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.024185 Tw (OPTIMIZE compacts small files into larger ones. ZORDER colocates related data for faster filtering.) Tj T* 0 Tw (Photon is Databricks' vectorized execution engine that accelerates SQL and Delta workloads.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 288.2898 cm
+Q
+q
+1 0 0 1 78 262.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Production Performance Tuning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 232.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Monitor Spark UI, choose appropriate cluster sizes, tune shuffle partitions, cache reusable) Tj T* (datasets, optimize Delta tables regularly, and review query execution plans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 224.2898 cm
+Q
+q
+1 0 0 1 78 198.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Advanced Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 132.2898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. When should you use a Broadcast Join?) Tj  T* (2. What causes shuffle operations?) Tj  T* (3. How do you handle data skew?) Tj  T* (4. Repartition vs Coalesce?) Tj  T* (5. Explain OPTIMIZE, ZORDER and Photon.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+144 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+145 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+146 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+147 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+148 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+149 0 obj
+<<
+/Contents 150 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 151 0 R
+/F1-0 152 0 R
+/F2 153 0 R
+/F3 154 0 R
+/F4 155 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+150 0 obj
+<<
+/Length 3443
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 9 \226 PySpark Deep Dive \(Part 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (RDD vs DataFrame vs Dataset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 625.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (RDD is the low-level distributed collection with manual optimization. DataFrames provide a schema) Tj T* (and are optimized by Catalyst. Datasets combine type safety with DataFrame optimizations) Tj T* (\(primarily in Scala/Java\). In PySpark, DataFrames are the standard choice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 617.8898 cm
+Q
+q
+1 0 0 1 78 591.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (SparkSession) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 561.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (SparkSession is the entry point for all Spark applications. It is used to create DataFrames, execute) Tj T* (SQL, configure Spark settings and access catalogs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 553.8898 cm
+Q
+q
+1 0 0 1 78 527.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Transformations vs Actions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 477.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 36 Tm /F4 8 Tf 8.8 TL (Transformations:) Tj T* (select\(\), filter\(\), join\(\), groupBy\(\), withColumn\(\)) Tj T*  T* (Actions:) Tj T* (show\(\), count\(\), collect\(\), write\(\), first\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 451.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Lazy Evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 421.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.024294 Tw (Spark records transformations in a logical execution plan and executes them only when an action is) Tj T* 0 Tw (called. This allows Spark to optimize the complete query before execution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 413.8898 cm
+Q
+q
+1 0 0 1 78 387.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Narrow vs Wide Transformations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 357.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Narrow transformations process data within the same partition, while wide transformations require) Tj T* (shuffling data across partitions. Wide transformations are generally more expensive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 349.8898 cm
+Q
+q
+1 0 0 1 78 323.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (PySpark Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 238.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 71.2 Tm /F4 8 Tf 8.8 TL (from pyspark.sql.functions import col) Tj T*  T* (df = spark.table\("sales"\)) Tj T*  T* (result = \(df.filter\(col\("amount"\) > 1000\)) Tj T* (            .groupBy\("country"\)) Tj T* (            .sum\("amount"\)\)) Tj T*  T* (result.show\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 212.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 146.6898 cm
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. RDD vs DataFrame?) Tj  T* (2. What is SparkSession?) Tj  T* (3. Transformation vs Action?) Tj  T* (4. Explain Lazy Evaluation.) Tj  T* (5. Narrow vs Wide transformation?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+151 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+152 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+153 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+154 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+155 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+156 0 obj
+<<
+/Contents 157 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 158 0 R
+/F1-0 159 0 R
+/F2 160 0 R
+/F3 161 0 R
+/F4 162 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+157 0 obj
+<<
+/Length 3889
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 25.5798 0 Td (Databricks Master Interview Handbook \(2026\)) Tj T* -25.5798 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Chapter 9 \226 PySpark Deep Dive \(Part 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 667.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Joins in PySpark) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 637.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (PySpark supports inner, left, right, full, semi and anti joins. Choose broadcast joins for small lookup) Tj T* (tables to reduce shuffle and improve performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 629.8898 cm
+Q
+q
+1 0 0 1 78 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Join Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 553.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 36 Tm /F4 8 Tf 8.8 TL (result = orders.join\() Tj T* (    customers,) Tj T* (    "customer_id",) Tj T* (    "left") Tj T* (\)) Tj T* ET
+Q
+q
+1 0 0 1 78 527.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Window Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 497.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Window functions perform calculations across a set of rows while preserving row-level detail.) Tj T* (Common functions include row_number\(\), rank\(\), dense_rank\(\), lag\(\) and lead\(\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 489.8898 cm
+Q
+q
+1 0 0 1 78 463.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Window Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 405.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 44.8 Tm /F4 8 Tf 8.8 TL (from pyspark.sql.window import Window) Tj T* (from pyspark.sql.functions import row_number) Tj T*  T* (w = Window.partitionBy\("dept"\).orderBy\("salary"\)) Tj T*  T* (df = df.withColumn\("rn", row_number\(\).over\(w\)\)) Tj T* ET
+Q
+q
+1 0 0 1 78 379.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Built-in Functions vs UDF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 349.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Built-in Spark SQL functions are optimized by Catalyst and Photon. Use UDFs only when built-in) Tj T* (functions cannot solve the requirement because UDFs generally reduce optimization opportunities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 341.0898 cm
+Q
+q
+1 0 0 1 78 315.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Useful APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 285.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Frequently used APIs include explode\(\), pivot\(\), unionByName\(\), withColumn\(\), when\(\), coalesce\(\),) Tj T* (lit\(\), regexp_replace\(\) and concat_ws\(\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 277.0898 cm
+Q
+q
+1 0 0 1 78 251.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Caching Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 218.6898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 36 18.4 Tm /F4 8 Tf 8.8 TL (sales = spark.table\("silver.sales"\)) Tj T* (sales.cache\(\)) Tj T* (sales.count\(\)) Tj T* ET
+Q
+q
+1 0 0 1 78 192.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Real-World Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 150.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (An Azure Databricks pipeline joins orders with customer and product dimensions, uses window) Tj T* (functions to identify the latest records, applies built-in functions for transformations, and caches) Tj T* (reusable datasets before writing Gold tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 142.6898 cm
+Q
+q
+1 0 0 1 78 116.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Advanced Interview Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 86.68976 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (1. Explain all join types in PySpark.) Tj  T* (2. When do you use window functions?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+158 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+159 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+160 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+161 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+162 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+163 0 obj
+<<
+/Contents 164 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 158 0 R
+/F1-0 165 0 R
+/F2 160 0 R
+/F3 161 0 R
+/F4 162 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+164 0 obj
+<<
+/Length 440
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 715.8898 cm
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F1 10 Tf 0 0 0 rg  T* (3. UDF vs built-in functions?) Tj  T* (4. What does unionByName\(\) do?) Tj  T* (5. When should you use cache\(\) or persist\(\)?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 230.8578 15 Tm
+(Prepared by Nazeer Basha Shaik) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+165 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+166 0 obj
+<<
+/Contents 167 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 168 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+167 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 315
+>>
+stream
+Gat&Gb>,r/&-^F/^>^bD,_Bm]`a/-`%ga"B??Y?UDIT'e_+?oOl^7lZ;1sVL8@,N`=3&4pW;+m6#.RVl]A_ZLC($U[.F\H#.XHsHf?6i396h`C;UP\RYj!?r&^Bl6*"=e?-,AUZ-,^WGk/f`\3<iJ+^=L!S"Inj@4R0(.!V_WNX#4h*e#q>J^V`)J9J"c$):UIl#u6O:8G5GoXQ0?.V:.rrW/Ij,e(1BT\9K*I_<AeZQ.?fdX=M'UD?jC54m=oD@X7r#6@9tjgMB34"2`Wd^c(rlI:Y+>[FYSQ<;WNQQ#;H,,sMZk4oc)XF:e~>
+endstream
+endobj
+168 0 obj
+<<
+/F1 169 0 R
+/F2 170 0 R
+>>
+endobj
+169 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+170 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+171 0 obj
+<<
+/Contents 172 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 173 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+172 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1435
+>>
+stream
+GatUrD/\Dn&:hOi=3R"pk_dRC&-BPoksQ]%fqm%^]%'ACPt=[>DFi28J`YeH2us81&/Ga$8E.jOB:]tOJJru/p?O=2DB8N-,=$?iAj?dL!2g?nF7juN2K(KXcnpR0C>H6n!Z,V)6Mu"\Z:(ZZ_$-jeJ[D4&?'gH@L=U%4>R_Y`.UALiC!>BT!Zn:2=:BA'^IujQE)-RS)MUIa;UK9k3Ouj.k;tYqi:fATkh-VupUqg7G\:P+D+X1GSN2\*)l*ZO>rQ3ie;%0DK6.g/i/Iu#`B8B4V]KQB!%H\ajG8([=,qZ517KY>e8l_t.N+Y8dO4?.F45et!=WJ!`MGb+\5!qtF%\o=>[#9j<H7.0r:#]Xe-Dj%L=.8bnH\\U_["8!J*n3OU(b4KDH8qLKeGf?E5'iF]f!+@(V:UqT-*%cTCXAtgY_A6h>))$X)E-ND+;g5m+Psi*d!qDD%9'ACNRrVqt>[0B^d!L:.9a\-fIh_>elm*Ohe=o532gXV^u/lPg/HU@m,(9XFfgd.stR/67YKe1lmnhj5tI**\N5B'RG5<.Pot\R@:[kn_7QtYcnp#8XP:09FojYS(LB@NSOeLIB9:,X[9n.![*n32]8X\DG-XKOFsBIpN``S+]&]X\Q'0GPjRjZDjNqoVKR5k,eo!p&7kl!)Q-RKj'XD%KSp#28G94TdL=KiJNXiPUFPo<Sl:?*I<Ua%^#shdL<klbk_t8VEE-%=:]<Q1J:Kt5i7KLrR5,44o.Uje_.B$\8CeB*.2C&/Zmm.n;h<1t#`./\b%%kf6'A37_O6n7(XjX%P>Zo?6WX<`\4"R@&U&!SF:n>Mb]qsV!8kA5&DeBf#dpb%^N-NX+q".de_F+Li<!'_\knDuf]PbTJ?WDo;j]N;Xcrgp5^7gFPWJ6K?b>U6pZHOblc,bX^[T#H=3sSB=*B?sYj:@ZYW$0+>;LebV47<<@BcPVb)g^(%Q!P66P&0q-"+]U3V!Alkkd1LH.-@"N_'*O"A:T88Pg!sJ$%^t8tHD`4E18K@k\h8]FLMTDQV<^1:bCsC(J&@=']Sq[U+mhIeulHADHp]G$!Ob!ai,O"^Z+R$@Lh$Y@+R&*#cSN]jXIYO+[J3i-dh90`37NeEUOjjOfKP"QSb3Ym?+KffB&\SO$)EiX+;G`Z;IClIoa(KDje<\DqPQQmfeB>^RN/)Jq3!4$5!(T9uNN*FZ_MYNQm5Nd2i%V&l3(9_S62bd]=hBMZpu'ZUItqeLHh@4?/CWsWqd@OG"J!/);c3/lp7M:9Plh>(M;B6[\...V?nc)$Q\<"1E@dj^;-=;l3l7njjOJVsb#)PFfBe4J]aXA8C\BD!GX:Y6"Lp7YMFW]/2Xd")cl%t'LqXY3Ko)AZ78X3!a&_ml<,4H$%B]]en=$j2CmTfP$LcC8rnVmX<<A;s%W(N&:&&%dCnIfXXDTH4~>
+endstream
+endobj
+173 0 obj
+<<
+/F1 174 0 R
+/F2 175 0 R
+/F3 176 0 R
+/F4 177 0 R
+/F5 178 0 R
+>>
+endobj
+174 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+175 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+176 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+177 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+178 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+179 0 obj
+<<
+/Contents 180 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 173 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+180 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 200
+>>
+stream
+GappW5mr90&;BTPMKc-3Rj46R.0te@?DN.tU2+V=S)tpfl^Ll5K=SY`4baLT1u=r2%ZL(;5S:L-`@;(i3-*@M1n0=k&g^09SX,!5;PF+_Zj#&k4e7>EhbZ;\h#Lbi&M%,TH&oTo(i3-^!L7S\hR_jW?\0A`[S]"W<'%[_LO8a'[NC,pQD4&LZY#NBPm9)G_&)8_1HY~>
+endstream
+endobj
+181 0 obj
+<<
+/Contents 182 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 183 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+182 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1507
+>>
+stream
+Gatm;CN&2l'`HlqEPJSCX#<TlOAmaTLpEEd1k!`6:3S"[O\#slR`$)uTk/`P?99<`/e-9E98/V_^A%L!S9p2$?2U)d4%oZ-!r2_X$)RmB*)+Cl+LhP=3;Ro2<\n"l>fSZ`n(beq37-1XHuXgTbrQgs9JMb8VPca`Q3q0qN1Psn\e%9Vq3+?)j)OiBi/.e33K,`k?H)OC^5sn71%kn%Nn(Q6e)OpDIR%iRB0.iPZ<R7n<bK.C3_+,<;q6#F99Q>2bUuR@Wt1EK9:.LFW_i2k7@[5tj(s98N<tqZD9LX78H7JJ$[Fb^G7W8<Pr7:g@?`XT1h@O-A<p']T6!b]Lfl(/VIAD@!u9LEe!_"0VLh+q[E?-!*9&g<CdinR&s6=e`,Z;Cr5[tjKhKM84JC(>\2]Z\'"3T`OoV(k/dr#OF:En%O>P3"-[^oI7$5Pbd2bNL!4!egU,U0!A.;D062t(aS55bk=@h5PdCN3@r)Msmp3WJDHpjL'/[jd/=g$^_$%<h7M@<+6PVb_POM(tf4r.s6\3$>eiu'-j+%F'_LhJEU$^+<eK*e,k%2Zgu^\!;4RXpDkBdQVaEdot6OH^KJS0!;nOsK/K`j/Ba2coM>jla7Fq_;@Rh2#*mDMcoC;P)AkFKfVAp%sLtrghpt!'VO)eDD?0!:I_U2/E!DG!=ffEJV&eESSI*pXB/DCREqLD>#)sWY-JQ))>>l?*bN,5Va-Bo6(ji=Wm10H:$Ue,ka%2,?X3,-&GJ'9+"*';4aj.$n("SZ\u!3-f^G__UC9[a@IWD5pV<eTpo_,+kR*cr%MqdM+[!o2(r17P,uG9'W6g48+kiZ<Xh';]12,JOR9dRN$cNFguU0pa`]hBs&L:'NY9VY+]YV_`fmVaV;F(ldTm&qL0bK0WN/)1LV:PDI/?%nPVX3jW<DqPLstB"lJ"J&hXDImV%RZdapCt><<BUO35qp2kdkZhFYkE5Y=CP'8?*Bk5[]Am'C>=RMGkon#+(\G8?qFJN/atBs)+Q=j&?d6>q7JnN3alO7ZHaIhu@KUNs!<@H$hK\^7V(!J7'g[8DP;BTP/Rm//:Rp5[`JI':$/k0c.,.euXsp0ra%<'MI$&IiGRUrVcZ'4R\gG2-;Ch>nCRT^EN]ZiFDnW"<(TDo5](sIiV3E-O=?Zg?kh^PRYaD%36P"F*<4e(;?_Z*7EI\dqOr#oksN<UEhjH?p'9fc^oeH,<TRTkaV#!A?T7)#09Ee@oZaZj.%H@GD$%n$Mks#=!N9_W?e&c=pc5`U9p%]pq^Dbo:1J3#m);ergC@W<G&O*S5`b1TO5a7;EnhH3E'W1<hqiE3Ph(GTb1Og:cr2I@q\B,<<-XGpY$q9[*RWT%"i4^Z4K06He6"aW)/(ZD-W[8`U0!0G7rStm3V8VK@gkA*RfOo-'A&`WR4d,TbD#L0j(bKSVq4ikso$0`mun1\NHtCDj,q9WgA]Z[K/b83DG=8?(@Filn$r+&XD00Q8h@a,&qe^.mLc#3ZS)+>481%~>
+endstream
+endobj
+183 0 obj
+<<
+/F1 184 0 R
+/F2 185 0 R
+/F3 186 0 R
+/F4 187 0 R
+>>
+endobj
+184 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+185 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+186 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+187 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+188 0 obj
+<<
+/Contents 189 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 183 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+189 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 184
+>>
+stream
+GappWb6l*O$q9phMRuh(j$YDg/hPR&'OO8Eje,U(SPgP;5MpPs3KQsU%O#M:r&d"_@16cO)M-5-:kdgI.0oTtI[?0_1ldhUYn9>=U<pYA+uldhhiR7mg@MfS4@!hZOL@kpb8T&W[9Fk9^t'mWVu+Fg_n1;%;7+n3<Uj%:n?'%XLQ-iB"&!J[-N~>
+endstream
+endobj
+190 0 obj
+<<
+/Contents 191 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 192 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+191 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1309
+>>
+stream
+Gatm:@;k-p&H/2-0g_m..PTKdgJho6!m*;4\T5[VQVp6kHN@JiYHtiqEnC6`cE=ukE$0uU,Tt=tbhMmKcJ!q0^.eLn`rO^4Zu/Sl/b!@[G)\,!,Im7rShJ;^VW39W2%A1)\[V\CD&qR+$X@H_j`"XeV(=<+<Q_UH+m[:\Ec>;']E%4a,0;&?r?hX?6qGJZ0#@9n86>:28V0IPSmYa2g6On8]EI[RGX"O$<!/82_,hMFq&XW`]hqk)Wt,sk<A7)[VNtf29bK9/CZ5Tk^L`qP*o\ne?`>[jhjA?hjpkf7-G.kY0HGmak:BjgLYF8"d;ZQ+ITts1SHOJMSaBnLD,C5?DPK(iH](]c]'0qVF"3sc5804!PW)Pea=r3tJKPO>&0OV"j"0&k2Yf+C_!a2q&,P<JTb@Zp5@G=:neQ:0'3KRAB"0/$A:0@W-%l291kAFZZ&F)?,U\G90coB,"jQqe"_ZM9!S<hfhe3*=@>+7eD,g+&/.*LDCW^]PC%`Bt@R8PI30?#tm%?7gV.%SKk_SOdj!;76o:!<n^%6-CQFG3=74=:?UuYMHY1kbdRgqZA3E:_DM;(:*P0/e*)dM!6o<)BG#?:`,\o&gH<\@HHM,j$M`S\G,hi<CP]**;WT$GTWK]Xp,1"A4ZiOKGJ,b\J\!&6oYIQDbT1@Fjb"SXI?OXP3UB&)egN5&<?i@PI?\q[pP_^3/].BKq`cC9Nq*5ecjpA8a:28M'9e(RUTCN?!*B2-Q.H&a4si2*]N*%"I.WC%SX1&<ZpkWa*^@P:1@bNk[@H>aWceRNJ[8I9luk10e_7Y4ROFkRqqc#$OfVT2fM((,U9Sg.a2,q'd,"GCd;E:W&5i&$Q,15p3.OuV8adu4Dcp_iOVHp+Cgd'O!M<OHPS[_O$I[>)^X]":YEBtd\Y:+K(MMj%/!EQf0*l/aNrB2>e+YmTT%^nNA\Ab1J4/Mt7His>([^0a>%1KGLg20.ET"<Ib=C'QaRSe6pD1o3c_(_gLPqnc91'QY>'CdnTjA"-TGs(2qW2TiqPat%)-D:n=MMIXA@`noVh(6o$G\Nu;;CZI"1Q.Cb=$7]EEGnm[1^tTSGAYsTdM"Pk`LJS:gK]4eOT<fq,<dqY?i%,m\Bb^Dg*K"S0Y?c^oO$&cHfpHA]$\lF[+&p.`)`HqN><DP1Bm0r%53djHNIbEg^G2aYcu[]1GO0N6iMpD?+*<+UiY%5loi/5d(%Mc=Kj;V;+*c6"2<O`d9-dkGAs)m/94tLjZa%YOb)e"s-uVg8]H\Nje!iOn#7;tpDq7u;lV\8G/g_l,RWu@;&(Go0T`~>
+endstream
+endobj
+192 0 obj
+<<
+/F1 193 0 R
+/F2 194 0 R
+/F3 195 0 R
+/F4 196 0 R
+>>
+endobj
+193 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+194 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+195 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+196 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+197 0 obj
+<<
+/Contents 198 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 192 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+198 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 337
+>>
+stream
+Gaqcq;,;fu'SYH?($BQTK6/ffSkOr=QgDQ--9bM@P8\+I.H(-s[S-qL:"kADmeKW$&@l5eRFa^DEVmhmk2:Tj,YZ"_=S(H$@"6I5MIj(#dr^kd%4=Pr?p4Y$bKb)[TQX3&3Q_TO2Th3I,k]fte6&\MEs;OLIdJ:?2]&.!1nK4Mne[Dnq!d[METAkS>qfb3f&)6T8-N5?#/]Gt[$9=r&4dP?g0`fhp\`],`*7LTgCQ-8eIUKo<E:+X#\SY8<H16lj-0:i.P"oGHUZ1I9tX(.<+m7oMZ]B\2DmNma[-E^T"#R[SokQFnjW9_QYhh"V-I(?C6%NJRh5K!I"QP;~>
+endstream
+endobj
+199 0 obj
+<<
+/Contents 200 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 201 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+200 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1687
+>>
+stream
+Gatm;IrF%3&H+hc@V"^KE^pNrKKs[ZPQL)<C>(M<=/eMQ>C-\2fNrcG*D0-%h='_4k!p)_W@fGCG\:Z\BAT+\!c$^0\8.<A]c'c.4J3gmd?K6khknd?)NG<A*X"":P:iE5"2EUXFg2#V9t-d5&$Ru@h-je#=!7`QlRE=FU[Zo#5/Fr[NFJmsQslVPM!d**12XOqM[\3a_<:G,bMpiGhU/hK2T*i8n;p+HB_4A,mJ$[epNZ)"$_E!Rm2iWMdFJ(LQ<P1l5iXQbcnLB=N'+rrSUE.*V_,hg8q,`]!PU(]%##XR%q4bq=s^'EV9[2HE5O!W<`p4DpEGM0:O-PS6>n--7<V=F@:o.oi@.[%mOBBfHTrGcHt^+$Y)'K$c=2r>Z67+2WFAR>T-J2b`\LdY-)`0P8k*'$*g70bf7p+^)+ggK6n5qBost<D%K'tB_5$6&Ndid3=,WOf3MO6HGua@o<mP]f,5cV\pf&HH`pah!B+IIJFf5uM.uq$Z$)$T;3AskmV0ntRBO?6`r+V9^7`\8e895(e75A#`Z%"X#c,k?=;E?,M.cRCPEn!FcjpUqLm;*A;1l8+a*S6U.'M@M?]*TS2]['2^hmnfjEM^>XEGJPQpf!:ti4&tFfMU]ail;^E?qr@h(Xi(tj'sUP5?G^@5=KnWK&o#=@Vkcr]B<gQZi[!kEmN8CbX?7qmHl?;[jFDAXNC(6Ia]CcBT[?e(QNm0_s>plWqs2Oa$1MY:FO,!\NncNP2P5N2DuOBZ1%K\3J9"T,1@NCB3%HS>\K4MjtiV!HRgSbU-"/:Kd]i\,_F*TX4>YdSs4d"Q<Lu!hg$i@]8jLaEB30<@7tL''HYnRY/3950ML;C"'TTnI3<dX;SF>iIEdPGcpjm;9k'62Hh85[*;M,t9S5]ELVuBbh-,T>:_C0)>h`Def0-H[0&fgCrFslEXhc;>d>Z*fS,gR:D5foYMhP1!.9m3CM$g)pgf'sT:1nJMAGd=oZThf3p[6S@2f!;+s7&"Z]GKFh-(91'%l0R*BXkHRS1K;R&&!IB!;KT`'ugX%UU)5NQ<RDf)iom<r[LLI3pi(Kc]cj]J\H",&Errqo`sY[jD;5q%MQ2kPg]ks]Pb[iF_hX4X$RT[*d")m4n'PP?F_]O'\7JsERUE&\Xc8(!h:aCB4[ZD3R>&uT1nLh;6]Ro-<?XJ6c-Kg</hiG;jnIn![e;IkXm_@_G9pBHV<=;`t/3Zag+7Jg[oF>bq1h)@mCH",)c5$5de5*QatB"NkoHD\G8S:CtIGh!61!T1C_=cNH2&s+PJ-Uj])!UegB[@7sDL3$/`g[fp`95]LT<?`WJ$?2feQ3@&p#KfP6__IidF$8qD6\J=;"/<M^4q:WI^5l[P[B=k-H.36Xq$TW-j@XR#Md!';at3V[i;mFLI)3[O?_Efot3Y"kBUE,*@/.g![!S7%jt>(Fq1!nUI:?-5h`dddf,Qg/IWa>pL.>t$gk(eC("0rc*5oYU1(pQmq3?d(RVgMu0^9(WHGa8+Ib;Oej[OgL\i=4(hJ+<M!VUM\qWlZ>"J7V6dhG;ZtA]_F=be#.EAKAgsD+?/=M!DZ+O4g^Z43:ePd.tK`.$YP/bLI2`8^Ld6tBt4,9K.7VE^CAI-+'5Gn,SfA?h)HE+bD6Io\;!EMMai1m?&5`^BH`i'0,A$g*US9[m'lj<TS*7E0AcH?~>
+endstream
+endobj
+201 0 obj
+<<
+/F1 202 0 R
+/F2 203 0 R
+/F3 204 0 R
+/F4 205 0 R
+>>
+endobj
+202 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+203 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+204 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+205 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+206 0 obj
+<<
+/Contents 207 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 201 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+207 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 310
+>>
+stream
+Gaqcqb>,r/&4Q?hMS!\-KK)]VYX5]k@1a9*Iiu[IiaR7dlR8"$a%]DQ\rnq6cadPR+UMT;=W:bjEPGpi.JOZ0M_ji8"cpABp.m;]/<X/+k7;hl_F7;R\Rh@_Ro(h77EMe_)<2W/=H"%7+:&5;ThMA\Ok)nQg5T%-TrA[I2NLf+*Ph+t8RiH!SZ\3ra(c'4kTj%7b-uUIhOf`$K$MXLSpF0\6^MnnXMASa_*IDrSf6itl)ke42pZ4@XsH7^!@MZ'@Xj*WDc#`31?qrX[q^uLd8&76>B7beoX.b2:NCEl5JDgoq?*A\BX[~>
+endstream
+endobj
+208 0 obj
+<<
+/Contents 209 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 210 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+209 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1155
+>>
+stream
+Gatm:D/\,^&H:NnEC-,4erc)VL@iA?V$/oe19hHdRY3Mc`)*Wac5Zq]A,grno+D<X*NY*^(].M[hjpCG$!"W4r=$[G=$F94R:'4V&&GU^)uNoRqI`%=b`u_pKt;+>Y']E-##8.jKH-PVY.69BMISJSJa'&//1WSg>o4B#e>n0C6FfAr)+YN*,g[]kU(Z/l5,X@bi$4)qJIi@=03_H"l+_ZVrX\MU5\7t?,5Zud/irS@FLGMSS"_E?hig$RJZJ6DQ36"(6rHQa6Akt=a>r$Q_CIeh;s6jDK*DY`G)91+Ae9kc3L@,_W;MlYIho5q`*:tA7cS>T@7?"[^/?fH,Z%0&i5soK.>3H6%mdKQgTX_-?ZdY8$99G*d1Fns$?=Q8bi>PY/A]u31[>t&i'HclY7t=+CIidZMcIE:?Z+gCoXle?]l&2eUr&FQo7->8mHh((IcaE\=r;jc_*$c^>`3ieY?Tc`P8HMf68hDSO'ahF6&-p&VVke)j!d7qYAr;a4:uItnf=-045`N%>D1p/Pebh5ONRSnH6l#PM!:]T6fsR5Voe0mY;mm@Maj(kYCn]*6b;LtBK_m(S-Achs"X6bT->#`!9W-\"8mF<O[Ku3C#7Z&e#bMH8NP:%PI0*`XVWCA)o9E.M=OulmLL"F/Im"Sp=0m6N:Bo[=Ls^eOOo5I#UrPmW-!ecCR=ID8<5!7YL.sA4<e8N5aTHSZ\Ur+MqK91[[cXQ]PUhq+_u"`6mjN]6_")j%scf9VG-*n0U#_ie?abo+ZB3_dP6^qi?'hcSKqh<he8/^IhpAQC]6^4#*-,=S80a&'$V3^HkqU:#EL6DH]oSF8V3ed,)iF:!`dl,\+03n`2_K<<ll6m2MI5Zo+r:br*X.r*QN,ZXcSIp'9,-p9GHND0k90uWl.a+Qg0o1.P7%V=M(s4[T(DZ?O'.u_L'AiiaZ%IV\]h?.>`n/0I.s<TdBTt@;2A`h"[uVrp6['1Po`c@uM!d#6Ll'&"oSXO=Bi8Ir-X^`*-P_5@p]th8JinP^T:tXi%4n@MU5E1?RkTeX`P7*="G\ojI(VZTagZ;a5%O;!shGqW:%>#pl(h#iZSe/=l&CBt6+S@"^92LlX]2AXeNnD,&ruENn9\,aqU<$28[:k@lTf2b9qoU\SK<fj>nYl3%~>
+endstream
+endobj
+210 0 obj
+<<
+/F1 211 0 R
+/F2 212 0 R
+/F3 213 0 R
+/F4 214 0 R
+>>
+endobj
+211 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+212 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+213 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+214 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+215 0 obj
+<<
+/Contents 216 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 210 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+216 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 210
+>>
+stream
+GaqKg]+0EX&4Lr[ig+>1$mG%BW^qhtaVl*;"MpAD`W\a-HcOYRF-A%bcFFfZ^`bZ.(0E*2'*<ka,q/=/W"`Ith*(Ut6:-@BQZ=P.hubM%CC(eRXjb`p;=H1F>\jSB)($^D!^"lq_-#Mn)"hje.Sc(J"la@>c;s+NO/&t&fpK%:6J_Xj".N)&(i2m"rfTJs0-%n=5J-*oHNC".2ob~>
+endstream
+endobj
+217 0 obj
+<<
+/Contents 218 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 219 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+218 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 984
+>>
+stream
+GatU1@;jjR&H1HmEN1jP:*VS=KM\Y3BRpVl>o@2OKJ^6]6/@th9q8XcrUDrS$40@_g*KX]`:)!tpR]\X*7Jb::O`Cak!<KbJn]cp"4K/En1LC&*BY=/CLl1R[VZqcgMnZo#*-$@G^_o_jsD)P/gutgVQ3WuQ;1tuN)lG-Nkl*remjTn`8&+'i0#An@i0smI,t&*hcUfO89k`pRWWF,e"\/Wm_J].og0-tp64ng47bW%ltiAuAlh(/AW`iUX.NR]"5Q1UN1an%JGDgW9,JleFcS0e7^9Tn?P1*dM\T>uMIiTR:3/d;GK=Lej_M!n2E/LSprZ#N:a'q-"6fT=5B=/bJWNZG;6a=G_d:[`Bb]T$`XAXX#.+k@3e,TZZ]fZ#PHZ3/e2:8qo3snUA,JAt%00]m*u?22)GuJH;6bWY\ZJaA308-Pq6u%LfT!\B$MOuE]]L\6$tjN3_gj6i_]5BOlYAQ;:7;NpqDeu_(`+#=-FPW^OLqq7SBGTVri'9!ic@$X+Ve`nkF)@&Kki"pXfog\LmsJD1!h!60d)Z\"&n*t,ba<1(`.*6q[3H:c9o%]R.;-h$S4%hm9%Kc=D;u8p8S!F<t?854m6<"jAJXVf?d7817\(Wg<KP"io_@HU6&7"dCD<?RfYc[71"A%WWG*,hAYEAMFeQD/EMI?j:M_?@KgG(!a1-P@(lOseEce2i:SJSlKqYsrA#9uor9lc;O;UM270;QcA+5%@g8p9bla:fjQ'>_cCl3S[p2eZbk\J::t'8u3o^/IWgi%;7&B]dX/gRTD:PEp\5If`\dM)f%@L=u2ff:a<V:<N6T/=m3N6',Cq$Ij(ULOL4=jR=UiSj%RH[*%/brZ+YhW".H'`o\VW!c^(YkgDMo9l"_&QHa."#(Eg7aTZpoTho*e$-1g[9L"4ZK_kDI@Dj]:%k[8@0&QB98$8Ku,Yo"kb**\'?j+_b_:8GFZGPjiF:$Th+[K:d-l6$XUqkZN~>
+endstream
+endobj
+219 0 obj
+<<
+/F1 220 0 R
+/F2 221 0 R
+/F3 222 0 R
+/F4 223 0 R
+>>
+endobj
+220 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+221 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+222 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+223 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+224 0 obj
+<<
+/Contents 225 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 219 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+225 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 450
+>>
+stream
+GasJM;/=$&'SYHA.h72_%]?G0=s'Y;(^P2XHh/P!YECJ3C6AqlfC,SS_ITkR!ge7ScBk"'1%1o$M[Gj5(b?=G6f_GsBg5&#_F#C3UZ>W>aY4TlqJeF<pdTA=[^7p#'&HQt(03hC/$upE]m_TiNR?(6=)=HP$f5$b=6P09D5HrqcIGR_[F@8h)l9boU:f3%]?&llhZS\s$]9%HVRUFOPB1O>-W#c\$0UaSeeVn8:"^4e)N>UpO0o^-($'g`>f;ULe,SIJV`^Pfgu](#]N7V%aGWr@EEcUl+H9RUUnf?h6d5_p2HfiI#T?4i60Jq4pn/7[llk<[+KJ[C7G>YB\&TTI:2Q4HA5J@'Di3S6QJU7Jk[5YM=jKMI%C<]fmt`tO.C0,+/9^/@<XW20n"am7iSUMR5Y8@=a,oZ?,1tb%2O:S?_c,qVIiQZKrJU1hq?!`IY?C~>
+endstream
+endobj
+226 0 obj
+<<
+/Contents 227 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 228 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+227 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1454
+>>
+stream
+Gat=*D/\Dn&H:Nn0rf>noTj)\TY,Y3SLDj&pS^JQme4Q[ZndJB]M7aom?D,2++Ic*Ood)g2FtK+4S-cQY9#Ojjk9AV"ZR%Nj+R`0&&B92D79tj"NJ:*pEOT.g$M)7mCBo:^P=c;TP4qtr=RoZ8p,A579)Nr4ep0oN?\DH4mV+@-3Q%_,GN:bZKOTj2,Tf7\Dm;_aQO7#&K]8PG_"02Rsl_I3J$*-"M_e;Q4?<+K<HkKSUTm)F9^#/?JBe[1[ppnJn,(@f7MBD4"q@_Q;C:aCk-)[.11\L\YNW;j1k>I;^r["LT)!FBV[R@S^<c;WPPWsf4+-=Pur6kgATXZ.(j5YnZlI`#:lPQdteAd+2ZG!/'`U38pVjq9!kHM3^IM?[lWGoC\qtQ1%)RUMee2^2\Q1Y%AroL4.ZU0QsSb'nK[-653;C!.POX8_YSQ3qZ?8,>8TPo(=2-LqJuF@8$mZ8"n$t1>0,6cAEZ]@kOP\T(IF-RZtNhSA?,o^U%9aq]8@!#0:iYCP8RV'm_@k4jj/s6FZr">.BLu\aL-PT+>N$RhK)G6["&OM;"[TVk>Ldk823i#j+,?N'2j-LQBq1[$/DB&L?NQ=YaB)N3;a,YS(Fjh=Rq8c4Z?[fL<aGJ\8'rACr/7QNZ)k"^:bNd%&us_`%NV>F*`Od9h$#n/>ZSpB_=0-s5H_U@#44tiZ>3EISP,U?b\T99D%oT$=bkrEKXb05Jd!qY!l"t[8lHqFl)D-hq:u3W?rGmE]T?l.i9la8a0-oLI5pTjnWfWX_jp#\b1A^.(GQe.:Ve:UPbG5HsmS#p5%MT$a"3Vrc$"8RUB2%"#7dO03,^D#^K3K">c1`LglOm(k6duH,%r[WH]BR3*G6'ZB[+Lbq^Ib@/M*$KBWs?^=RRuDl*H7j`YC<^QTjqCo*)5=+*m"]:<(r$<W`'*->%1,rYJ#)Cn'eKXUtpaV#4jNqtn\$4W/]f[V=-TlW?*?,J6^Nbdq"NMX]cH'Y[jBW=D^T49DLQ,UfDf#]S5?498cV]=6";FFJ5)I$mqNBNr.':tRm%:FB/EI,2"GGm#M4THY:.FoC92AL!rb^YL4dX_bV?7FWhp:]2+$kN)tk'Jo%ll;B&=[KW8QA8ATC\;$leERd7E!:&]96P5pJd#(<X1^hC]/CmRog'?.bjFo8V%&[/kb_r<1@5-Zk+m9s)($okZc/Y>\F-1#EeSOFr:UB&<ELj^DK1E6`gCq^)QZsJ!LBE;Vq#rn)UJj@o)$CP:,OpS_q_[P4s;EioUW^t.&IF/Eo2,mJE6iFV+H'Yb!JI,W>L'erJ@aLne;8iX0QS$b-#StVq?r%a%7\Ag^n,PC4]Af\Hg%:]f0l02>\`@ka=1iA>j/.F?>2M/cD8Ho8=lnP%K=M*7$4"'B>c\$B\uu-k[F#mN_L(ph?/f?21^-@:gW@OD]eJ>R[18c-Z8r#;7(q&(h@rHi~>
+endstream
+endobj
+228 0 obj
+<<
+/F1 229 0 R
+/F2 230 0 R
+/F3 231 0 R
+/F4 232 0 R
+>>
+endobj
+229 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+230 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+231 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+232 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+233 0 obj
+<<
+/Contents 234 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 228 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+234 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 234
+>>
+stream
+GaqKh4U]+\'LhcqME@h*D7%8A$%Cjk+pOQIo;iPQeg.!hHdc"a0&5QZHf-V(+ft(d!-<_MRXpG@:1.e+6>Wn>d4JfLEl'P>=j6]+LIF1U$2[lF*5])SD'qpo;:<H"J/Fq<Nc@%B-"r)4@L;S)#pX+^?cc./8^7)CQOZc#CoR_>Kqn;9)7!4\hNB_,/<Es*eB\*a=iUbiA$WMmNhE27E0T8If,`6-eLh!P)aUu$[f~>
+endstream
+endobj
+235 0 obj
+<<
+/Contents 236 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 237 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+236 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1465
+>>
+stream
+Gat=*D/\Dn&H:Nn0g`Gdh4lD*PecRq&du()Y-]1E\'c`=EYAQ3-?3c^jk.3Bml,F<nC!W&=/mD&H$MNu1Lo09a,b)/5n*8%K@:2IC^7U5fM/CQhA$I3UPC)+Y]SXX2JoMNm^1@D([>Tu/<8*/0#OAmN1h5qgH(SZkWmF]FloE**P;r`IA4fR@)9O0&WqqX(af$*A97u^8J9m"ILgnXWB2^3p_^Xci-g9BSJ[1L&,bdeCNUP6U=4&gGYPNn[Y@lN/P2s^fF@<jVZf4)V\)oC"r^SnR&&+-R0a3=42,")KMoXL"cNWb5m-c_Zg(W46n!"4aBumNSs<FPQ^XJS[up-R;=\:AJPa37:lHb^b_q:\%Y6T\3``T.oZL@`3>XDIMMAVCnm^`N$g`2_.QD<tTt"t$7@`pB"B:\P!.]RA+5Qo"SAO3H-47J!G:sn`&Nok\OnoAeD<eTG1J@j9@gk^K\Dec%lYcntMM\i-mI`,=o:*&L&K1;Cdp=-/F\8op^VXY<\K&9EElfOHrqGqZ_?ZITPRE20^Lf[l.noGDM#//tiFBGo81Nj6"2"602p2!3O6K##3%V_>j')-MEo(hCTmSJ;%-^rmR+IK3OYtGt,<uPdf&_L67o+(tOWnW:R?DM!(#@apFn_\_RHgEgIq?Zd-,D.&UT%VF1Z6oAW*c[^)4al7KN-%8/g&')2.mL:`31?boZ5GllP%R"6?Do1"UtEUj1LZ*=p_()(%Y77,ABc6&H+.O*be]%"U\rXoc1qlU76;;/Gf7"h@f.3WF`6a6i9!I`r#S>SHJM=1f>SPIE?52^GC#bWLb;C5nt$@=gnsX22Q$5@1AgN(1^>5R#5%filW;MIM'[G&L.o]X`d7Dcu#I$RXq70HEu!Ve=NY5U,L\,GV6ITm06lKBegk^=OQ]i.)rH.7gjPS1+hs9%(RX(q:fOr^7fo0#A#VM$Sim00@,p)BOqF+V!@mH4`$CC8**Z\:*R73UhrqU1Q;Pi$JS\nbs/@Ig]%(d/(\#@],;rY$It+[mBpLos.VfFa#YJRVr;M"ppk9`[;OLkUbes0Get.R-fkTs%<4]V;Qnn:Hb3-Y\Q87+;E(.UDA^pYnq\nreo3AsTUV$VX]Q\H0,Cd7oD$>Er>Z>=$)g[V9:-LO8J8>%89ROT-$dkCA:=<!P=e*,9;_2$bM+esU'LmMaJ`(D#'Us&P9XWfNUWNi0*I7_6%J&IK8*p869UX=a3odIoft/D.1Z<mT/H*B;m-D7?-g$>-T?J>?j0c*s#Fi6<1%*V";H/T)VdhVW^EajPK@[T+:?`EPFS$M;]Aa3[d2p)8e21E0=g)!8X)0K?8HD,H-GN-VlJT8*q"AUqPIj#&a)/LKRE,O5-"<M-WpL0@rF=FINOqjhesk?_.:ll8$H-XX\@/J//JA#f7#9`VN<LI'*Mi>OEd:'1m&]rMl@(I_Gh%2\/f&V7>?>foj2e"kW^MN,pW~>
+endstream
+endobj
+237 0 obj
+<<
+/F1 238 0 R
+/F2 239 0 R
+/F3 240 0 R
+/F4 241 0 R
+>>
+endobj
+238 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+239 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+240 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+241 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+242 0 obj
+<<
+/Contents 243 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 237 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+243 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 456
+>>
+stream
+GasJM5uZMl&;BTK(%7MF`n2GbF);1]B&M%P*&qisXhChf\WS)&?f/77bd<^s7N+k!pV&#S7%p`Q8(.QICRj4F-s*?sTNpYqe9BQqMr0H`j5a3oX7[gCW_K;s/JN7LZjYEMT6=trX4@$DeRZ&B\\qn^&fJ1-oL8P*#K)RRpb/RqU-=uahmNE:]\Hci(O9?#1GsV91KQC(aZkCZKAnP%O?=GAdQ.pD);'gVUlH(Bi!m`J&UU-2lm\>4j;PrNR!Na()G66(pGuChV^al"4tZ?".b7%FqLGC`jd<tJ=;j21\EAUJSMhm`:(j&g*&rR1'=_\Aa<'lOc1%sN7Qh6?<JK)>E,akHiujfVd7G7;gg]D_24!p8lb+'^Qp%>-gY4N,C3Zt3S1lt;8_[D8$(X:ge>H^k2%--%97*pYSg!=(Hn6V:,Ah.B9^kE4?J]A,@/eKE@IXR4`3:Q~>
+endstream
+endobj
+244 0 obj
+<<
+/Contents 245 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 246 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+245 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1532
+>>
+stream
+Gat<@?#u`2n3+O\+5K(hpe\nU1Q&>^An)CY[9IpEi2Es_L)U?'k1<rN!mr9<`Km>Y4oO2"h2MFrIZ41`L]FT+\/H;oR,G0akd3G0cbT3,rk0umb+8^KNmW$?^4RDMT]ZPhF+Ltn,n:e;'P2mT-rHk@"IXR?GB=(Nr=u[D0:AIe,*IHqDcf]4@.=GuZ(tjLkVFb8$_I(]ND#^h!rj)3TAf?/#$Q2*T2Y'7-J!<[7ic/HlRkPQi6`Q<)3842V,Y<!X8<_2TL>RdT1U=l;JZ$/9's`_fsWIpa7#-n(h./?4f;d-b.&9[/Ye5DfATU.(mt!Z'BA\kkde*5Od%)WCp8"[3Ro%,`^aV^OVm42d>[[p/:j>\C2BFHDEX@m]/VfNfn(pp/d\u2)2C?-2s4),Imd5)F5E+BXb]qjCs9N4Jq0`_eX3QP/+hk8g0cs2*m87;#TD)mOq;5qXQlQfEdT6:i=QYt)@T,G%;oEhibC.lWJ"i7B%%Li/>B*h;,XIOeoP9OK#]N%7cm;N3fcB*MC'7',ba`8GT?/A+^6Z-;P:5$R]Lrj@DTf$'k]?<FMj3'=G%>oAP'rEF@UsjSAhH3O'.A74AA+PiTm%`Vbl2>'K"e-\S)aXs3.AhR;=d5DGV.dJgO_neOq054JTs\pMpQb)Ia5GOf(!D/85@,kt'"("25m>)HQ+G;gCJ!V`3(spio"?/seN)WdAnADAb7@LEYe+jI7sZ$h>I,RD:l<E6L^DiW)@3>n;Z.KG[drW@_/GgHCpr8Y0#J\O;b%6--C_R"[#eBs=EG!P7<"VQQ0gL^9Rbbc@fUYgka5:4gH67UJG>,;4C_G9kDR6,dLkd;TGc?YG!dd\hCcL6[[a;mGJ0[kKRMoTd@!/sR?f6=^h0g\2H=d9ppKq>5I'NEd"CMZ'\9XSkLJSaZU!_iddA2&1?D==>h*%-oGSPc#t/I)9n\Y'$smBH<#i#lK*;_5p^=OLi1?L1:AT&.&9:!FA#@,fDZEoB1p;lL50cQ:`e'Fdfptriru&eZ167`np)Wo7$T8MsIpufd>SCEXp\cRWEoqgeY[Zra7Fi1O&%AkK>@^/ZnDaLVA&OYo.Mg".a.PrGotH6&laLeK-9>3'm<D"u-GY\2`#>d\1FdVcUc5]q1r!j(N,mmG)L&F,`+feXXmZ3,2@FS8mWH2eV^;`?-@TmbJr)=fm-[nb_XHh:7M!NGIIAIrBp/n6G@6&TkSh."k$LeI.mrJiT\gSA+/CqjdehTF0G[8h<:D[VM12KISN*X9BB5$>Ym['NANNVdEgH<+0XA`$//h41u8b:kckd/?fC[=M9ZNJkE+C]&pYOAs\P2YC:Ud[lR#c<DJfCWD-XnV#JOChS%hC/_g8Llc16n5$I_W?9aBrhAn'kIga@KVVLmq8m/k0Gr/tb%dUme<*'G3iA9/b5^t/TC>s8,JV[^W,RpPqY?E`E8kn8SD#H=Z%jMh@LH*OKAH#h7ArA%"7I6if]I=:FJXZs@M5i#`NeL]tRUL[PpTL&+cXag9g4&X2";h(=$S[.+~>
+endstream
+endobj
+246 0 obj
+<<
+/F1 247 0 R
+/F2 248 0 R
+/F3 249 0 R
+>>
+endobj
+247 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+248 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+249 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+250 0 obj
+<<
+/Contents 251 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 252 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+251 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1802
+>>
+stream
+Gat=+=``:f&:XAWkXV/["<AW+)[>!3b@(KJG,nl5;PX?Sk[6oD$2O8kc&<p.7!S*nCpeS8qWjP5V,7mj:&]?(U?_u2][9:!BsAr.Cm_RHOhJ:"pHm%LXU\L2f'%4e*ULR.;_IRi"nl]-3c#4u8gg_c<9^tjUc07;::#T7Kh&Q-YDb7U32o8g[.5H]\0%hd(o<2+phWUpe9?E/BG.3o\YR2#/O%P3OUbLeJD[VSg0:X7jZtuF]%TLU4IWMk5Omcik%ht7HE,d_4=0sjZ7t65T^AmZJt=StX]Oo;97*,U*dLttBuI/D\<hguks`^[nYFkQ^!S_<C:4X=)r5\dlBkO74)Ne/>Jc=iTEA1MR^cQ5E67[gOdRsI%dX8\JamU*\s>%bef3BafQA=2)1/'tKR'q`3Q9cZZR"X-.dl#I4RtlcK^fEX=d1iDX9sid[T"O3ju\@9Ou&cAlojBZ$kr2Z+St!%PiZj'*kNsp7,2AEs*Wkr+4];OQ3(\"2NO@MljS+kg[i(2HMufQE7cRY>]J\Td[8H?;cX#t</kUZ8l(0nUY,)R56I>^%jRFaHZXjI7lV?g3hZfk[.FHd&6gc8f>i3AWs7,`WN1O"YD&(E8Wh:)YS+t)Ue]SIB*1N4Q3@\=,udqm5],@"csjImUfRZ\U1;6ai;c?j/-onua2Wo>-]g8j$"Ra"+P(NN8(A`mfGEZWXhPE!9NEPZ\P";93n!q77-l:B1Z?YP^fFAon%l.rb@RQ?e.2SGm+%9.Mk!T`$XRpQi`QDPl<)HG;U[KnR(+i6mUH4?0i,b%8jYcT1.q`Vilub*I?0P6[Tj$eYT9"_Oe;'?O6[>9<Ag]f^?>$EmfC?q&99.[Qb5ZUo>lbn-DMp(/TBo9`"f-:%Y)e@NE0!D[P^*oc>KmTgTn,=A@<0ecs1T!hD+1i7]l[(;sSOHY+SC)]2NZ7Q!Dcf\=cHshCc=28oCt8E'Y4D<,0AT;=N:/c3$r59KhQi.!W=(R\01>KbnA7cf.V/^NVH><S>Jfj1V#MIOFG2p"'UL/0!ocDJD(:#L`/aIb^E-S2oG)mHLoO>D*JbA:jC4VM[kA6h]XdI_+sf5o)rTIDt5_F1kL*c>'23BB5/K4<ADFfd8sNU7+Y[EK"':+^_Es'.;!ig!<A(Hhkj.c#OhUT,ZcNBRkuqTV\E6W>Ej!<N.Y"58T8!A>:Yd)s=BKkdIKrB3<_H>pmeMs)aa()[@KU\db)#9'+oBKcO.!bDJ7?BQ0U-Ai:Zn"T*FR**`'2\(^Z#M=]tL3h3j2f@S@Bb^TGtgY)5hT!&*=qp*O$0>kp!g\8t[OkjBWIG]-)Y\.OC^;o6\E'.CH26#T9+*mCBDR)f-1S8>=rVCC%352h6.VNJ.a^9oDfTWlED>ufbh<'CH)[L2^G)gipMI^\QFeSDH17V,)l9W,2W(t7P_Of"l#Bd?Pmb@JoZf.i_<\hAchFc@[_[o\VT?,&D>`<T67WQ</h5\Ci]tZT_Si"Wb].D`ni=mM4N,mi2qT^dO0Nhm>"Gnu@o/$fG/#KPjr^u;OS!^B]ROT'6?q:=P^>R*^S?6t4g[O/J->#28"#A0hMfD:<TfY'U0at0M#%4"i*NgS4\l#fCD!J9oE1HmFF:9M__NM8Tn,3l658TilJ%F45FEmEMO2=+Cgh:#Rr<Qa=FQ5m$[,U]HS0=?o3a+uPP3NpER>4(%eAL-o?gEA`/.u;$0B`oT6h^LH"F5#IImJ2V]hg*#n9+D@;jMu%B4.h]^$B^Eh5Ulj()^GFNefCkZcKaNj"!71f@)N,;dgM'Vh;4`(V9APJ7UUQ~>
+endstream
+endobj
+252 0 obj
+<<
+/F1 253 0 R
+/F2 254 0 R
+/F3 255 0 R
+>>
+endobj
+253 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+254 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+255 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+256 0 obj
+<<
+/Contents 257 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 258 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+257 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1330
+>>
+stream
+Gat=*?'!]!'RcT\EF2b@]0Js_$N%%?1X$Q/WKs*KDnMIUJ;]7_gOWtd+2>i&,f>F)4$`q$m<ao?3VQiBC>n:9n)9SrG"*Pq4S!lg/]m<84#D;[qq96')t1#;+&K`421o9Jhujg!q1;r/i2g"7_ndokq;_]3Pjc4LI^e"tj'7LS&_0@pZ@s(Q`mA@1/Cu_8n\,Za:Lb/1$`,a<YPBcb2uiAuAm]9G-T+Y.!82jHSY59Xg/lZ^3!X]!r2,$t=1_\C`8U3s2#$qi4`Mef1U6$uHq?1CLR@MiQ&%HP,$rY;1Rt%R)@:;A#]'%cP\EeX$M7JgrGDr5m8@S9r<C4Eg8.cf"cdg_CB%"<^piWk!VnE]1:&/]1mQ9;Q/5icf'6TIcmo[C/?KmXY&J5KlRJs`.i+$ZAqc*KHuWX*h2e1!o2+\me4Hs"d`a23iAZrmMr-p=;U+3_;^e'd)M/c=U1P^f#m0\M2RY(N39l0QTM1Q(UBcs>7>;T%L20s"aURXhpn7L)NmKakOKk61KT5b%+:36"VFd$nb='>o2:I\45o>pif]ZA:pk@>a=i_VrikTt?1;[$HXpoqdi"iR'RDbX/V6'j`[]uS5btI,A#D8WdUYGePCS*K(:krgpH"^XH9?B7]d-Mc.r%ZaW3JCVZ,?UD*c.MG]heO:=FssQfTNTdn=IDQZ-4LPMZA&1CPi@kTPX`1h($4MJq4*?*#JL(fkMtghf<tFi_V@e6<H>k-r;-6ZPI9B5nX2T2f`-r;Ke'+lcd<R(k%sSR+hkb9)*/-";CgO1WqH^>4#rGh<32ZuMY2=>(^X,_ga<d[ct6r0-pt_k/t0[r?-d`//W=ou<F4]8e^0dfW0K*%0VNc6OAPN`)?i0PJV[-e91Xr7F@D/*>B/3/jqK*JC#'i=665XLm3oMUWE$/RJhC088J?bMd1jJU%l]=X..t5@M^I@3o;c&&O/pSIP6+b0oCeETOrCe3\5LFjR3F\t=72!RORdEp[g/IJMKPhUV10./[YIn00hq+_)R"3_UG&8HA>":GmWJi,5[9OGd(*5(P;h)<jlE?uBQN+1:,i88*IAun]F&]+_mMk"e]T](C3mT9o_LE!;b\!n4-^eS\>H[oZkcF']V2n`>_mM*k2so@UI6Wb.[MYXo9#]3b=9A%L=WS6V+o-E4NgtkGc*gWh\O^AQib6<NVl*2]leGs4i'gNMd`u5k)3M$Xj_8:jpQp!i4rrI)Gd6J@DgaA8YWYM'ZFH[GYd,!X_)7[)LGk\/VM=m,[BM"^`BaqS87Ne?`Q><jq1R8_u97U+gH_>]Aq!1Q8085(2fL=F]sgF[oGdSrrZ0'mY:~>
+endstream
+endobj
+258 0 obj
+<<
+/F1 259 0 R
+/F2 260 0 R
+/F3 261 0 R
+/F4 262 0 R
+>>
+endobj
+259 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+260 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+261 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+262 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+263 0 obj
+<<
+/Contents 264 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 265 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+264 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1341
+>>
+stream
+Gat=*?$"^Z'Re<2\1cU1]7aX'^@kuJ84$Kl_^mC8qne8q01LpP3Kfm@RJuup'#m1/TNa5433mYpd5gAr3IiIT!e67eJ?'Q8\.'Pd@CCh3C.'bfKAl1VnKKAoG'hSqJjurqn'MJgdI])6H9l>!.NC%a-r^I<c\2]n(FX)Yg0In6KNSAa)eRbioD$/;Ql1f#7[!18*1u1'PK?.j#FO,[B%WNdIh/l(0`)kC%q6*Uch':afBKciU2t9GG`gltcbZYfY?:43"DsN]@0aLh':1MH+UhZaNSkAc:o7JAC+`GpAd2[YMhIkY,-9%)';d?L44$K+G2!bUf<:qJq&O90d&NnqCg`06%FLfdW[sGe[Y;a_;DX[GAsZ,&Vgu2PmBbJM]hNfn9%0^4o%"#,$FO7CZ77Z8)(Qja[K\8ibg>W4/@EX9Y#Jh#B*2lTDRQ8u#,P2N1d##j6:pL1f),h)IUaZUQN\rVCC6e9Ofi*UVS]6?!RE8K&;FO=5d;Ka.OeiMQ%UHC]3kn2Ylk`u&f/^2.iL"W<&s[E^>0oI^n+m^C5g1-Ka<O)7^USt-Cg5^+YgdSb`^'b?f@r(0Zh8eo%5cob0fOhjcalNHlX:&aj:c+XuX%(T]6crkd<I*,AQrlbqdsj'91:,bZ[]]m-JEV<X3ra7d6-CHlqkX'*+ruF<`Yn(COV5SC7@^qA!n=;AE!cYPB0\lheMj&$P-_3T1MD;9%4opTEt']c5b^:#R>>n:*"'dRq4r>lFn*/tT!KkiniTaj5[NQe\aC]3$CZlBY2p1W?jB\``K'N)bJh2+)<#Rd<^.hD=7YTXNuJnO'uoX\/'&,G*UKC$2S""/%PQKO4JGo+(b&(i&;O_$05iUq`Aqq2Uq)LlSp7Ha@S9Aa2>3&T*/;IF\'bpKsa=Q9ma`kVQrK!U`I#?_P[Ui]t+J?8Af/<@uNo:q&CVMGHTTiL=#tqH+I2fIAH>mY/42Y(Ntt=m"]LQ>RoDrpX#D7fg+(Gcp15h<lq:5K0#$4f*EoDBmn]X\YgO]"^l7.*Gm\Vd_`pX5bk1@8.\i+VN6280,&MGe'JGMYN3;$O,/,Bsd;gM'A/536_Q1[j.Ejl"[2/Vo1Qc.kGh64/)H)d]$H+^Ms]i=Wo=UF/QV!_%D_`f'D*MIqD!AZ$r):5(SoPgX@X*_-(N5[o_j2S4KS^.nkd1VR\aQ0'r;XVs>=&iW]ifBoe>f%K'+6lF*3'*<1;0o[AXc>aQ_]("GMogha^<1r`:g2*!X.Jh?0pXfPcA6-hrnkEcjk?@=m&bN$sk7PYV"MFc'nP&Qp1B2%*<mOWt%n#2f0.`[O!VC]l,%F`?"bC6B.\G-Sr/,5#~>
+endstream
+endobj
+265 0 obj
+<<
+/F1 266 0 R
+/F2 267 0 R
+/F3 268 0 R
+/F4 269 0 R
+>>
+endobj
+266 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+267 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+268 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+269 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+270 0 obj
+<<
+/Contents 271 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 272 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+271 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1397
+>>
+stream
+Gat=*9lo;`&A@sBoHbqE_(lXqc661)gUjVo/)J&g(G:>RUfia8g6iNUfDbPeNs&Q(K%DL[8n)DD?h`l8XUmPc$2ne4!F3n-i\lHDK%ULJ?I4>X4l"9,^79oMcJ]%`]eC:_/k:#8(-6o\,\M3Wgmb'k)4?@)*3lIk@RF!WkRZo_#A-VB>mi"q7`J4>*e\ZLi%Cqb[DWN%&G^@?ob5PR;(!:+hn=ZqB:/W!k7&A`lm$oskQ[C0=4&am)IC`[3b!?98Lb(e&b]WS70E;uKfYjJ$t9'=)?`M<2gHTg6mM:+-Ggs#?+H25G6hFEetXo/q?PA;@1N0]R,9Oh/mh#n"O=MEccX4D\)qB@,6b<hZ\ABs0U>0?<;7>C7]]J'3#?>qA8G$ClO7.Hhk8+6<D(<pcdUVek9+N3P,M'5E+jfJjCHpqOdt)_XHZCV#J*1S+E^G/.D6J=D4rYP:1Y2sJ(W\r8r!s./eVenAG[W*M2L4;/[lpIg2+lNK%?&ciSkPr)f/EO&8p'd48;W)+=<E=S-?h.3p%6(d0=Qgah=T@.Flj5>]MYoDp]ah=D:,,kZit+M-M<nOcB&X/>6a`9c%!#AJJ$H>,O/+0X2iH35n:8oQm.[L"tLnX=*"^)lYNSWaT`'P`cl)`2B-u/dK4cG4sC[5mf7YNZt?0(.Xp>#;?R=)F+g\T9"T(PHHC\/\l3lp)aIohq'Esj9VMGf6e)$obHE+m6tOZ1&?A_nD)gR\A%t"gA(Mn$L]^1hJi84kkl=Wr-+N#[3g(]m_)ZEmkaJ_Q^!U=`Lq<>Ys.F^RCKi'gZ^U4Kl+-HjD<K%F8!$DnN$JK$H:;/WT.rmc-sf2LdnTF3\CeiOW/$S"<48+M)MgN4YpBK<b98POI&SU>,W(u@9F@F+=nRNC9\Kl@T65e<MI?l\XOA2-)Il%:,SkW\`(t*<g$-<efCpp.sfu*j`JaH^aUshN-iNI1JVs-lWqCDj[)P._Nu`NHVYM?o31n^3mik=]g]o<pLDY<]0)BP0'.l%\=@Tk*IL@/*9ZK'=.B82>H(dL$hPVal`<q(>"55\JsgYjI:C,u80o%7ZP(&$]:4lmR`\d&2RRl%hf7-)UG'Xdhc+YIV)OZDU!PK%>T^m@IDM..:QK6rmLhiW$CVmcXuJbc>'6bFXke7R9#BY#ek1P,ij#)3cX^WVaBAI;P1T*pI^$."%HB"<=rVAf0A^QC1$6>DIEI%])>ttQ2uaSLF-l/$Cip%'>q-asBOsNj)%rb^6E)OoUEBbT0[b-b)$F.ZL%Z51e!&6bWAOR_:N/1"I8O+*RIrsH1Z]gA&N8(69hhC+QF;+Sj49rqgGVan/gf1<FB'rboN9jrJ[]_e@p)"m3U1%K1dr<_=&8Jtd0$i4OD_6.^6lZH(s`*aAssMW~>
+endstream
+endobj
+272 0 obj
+<<
+/F1 273 0 R
+/F2 274 0 R
+/F3 275 0 R
+/F4 276 0 R
+>>
+endobj
+273 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+274 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+275 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+276 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+277 0 obj
+<<
+/Contents 278 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 279 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+278 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1245
+>>
+stream
+Gatm9I;dh!)#q@Ci_cP9fH$b5!<P?*-d$+\6uTG(2bcW-9OarY'5+a@O6Sq,4\d-[XY$"pOW;EfgX"3H%<['cHjsS9MZD$TD6P#dVI2?a"p@<W#:JD)lkQGM#-VH>m<5Ce&kJta"?AP0=h@XgJha9G^ht)kNaib`9rmNP>TJD%.NaKo'?S,%JfCF@PqYaJ>ql*Xf-H2"6HikCEU$;7r9bR.NtD4![4NDTlk\J1FKLT#-9;6A"g='GZu+`$H4M8Y3:%E>*N'(sk=ec-32)tg=@/-n,Js6\cn@`2=$T8Dl8?eCr<)UVOC#6r\P$[ZhSrp<GKW85n9:Q$+\dc'i`-t@mqlR:_A]:?4h$`tZEdO2*kmL?#WdjF9s\@7;^$^B:D8JP6]RC_;g;dJ!LeMROqO`Z9S*2,;TWSb;QKG$n?AT*-&KL'=e\bF$pQ*j0u">\d8XhQ8Q=05L7^hf%CfAp7iLZ-Bd+7LJjO#C^bjJ9Y)67mW/uk3$<iT\iMC!]r6L<i64dfF@Z`>rN-l?oEC$Ch`U#VJZsIg'ZdX1K%@Z,cBm_TD\f4_$04m9X6q4B=BR$sc?Q&`X,\_6o9d@krEmV>NJp,m`(B>A8(O?!u1?3P6JX>RB!:[TF>jqN<!8Z$fiP*("M2(>4;L0GUB0:q!oC(N?c?>R`1UNJo7/&A/=OpXc'"T0?5$ZLR3C<(!MWC0lm0!-BRsX,^9(;%hMt`S^9B[O&/nRV1NJ,FHMZK?!^J%1u..1u->@H:s@`p?U\4^kUP4Wh;1h6t$4V=+9_"Pi0`KGHtQ/&hBo;UfZ%OTV'MAXd<8r9'Bl8uJP=V@0t;S_9k8.D9NCG<<VKT%<;P&i$^E56ERY+/8XpfRdnoLE]"8?+GJOhW#A;oZ)gN3OID'N:Iabj`OG3Loe2S8sKGfiMQE8LuYJ(6Pk63^\@HN0YXqg/YrrLs"1Z+38mf?*Eit1u5&+MpXAHH!D'Lmf+%k^H_)Z!XLTY782f%(0,Pd^q[W%=%FmJ7&.*#5'D*#P]+N4aaAC.klqj\<0]sTGG":nE:J'LHV(m<INJE8[A3X%:,..qI+e*dVtlM=SQ=ni4[7Sd?^H@cnPm\0\BTp$U0`b3iuCq/LM-83p,oi#:CrA1?p<Ljib"R4P/c..#mW)=.IOrYQWMU_-ph6n;o1MR+D!"`3(;@5Hg,Jo[[MUYHrGUc-mi\9\"]R1hN;O/R52HeX$?"[X<qat#mY^>jfMnmduG+#j?ML<jIZ~>
+endstream
+endobj
+279 0 obj
+<<
+/F1 280 0 R
+/F2 281 0 R
+/F3 282 0 R
+/F4 283 0 R
+>>
+endobj
+280 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+281 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+282 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+283 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+284 0 obj
+<<
+/Contents 285 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 286 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+285 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1472
+>>
+stream
+Gat=*?#S^^'RfGR\1]?e/"2Xjh1o:DKpa-m)HrLKC"*sZ(uiB:1U[BQ[6K,D*Cuj"FCp5[!kobspRZ_L6>5:)o\VJ/\=URV`t6)nVK3#I5msQ60V"a53"*3]h&^ZB@F4?5Hg$"c%=b#eBBU;#iQs<u:_A@D(Fk;ITVrm<]BIjsBahBMZ"0^l>oL4#`\IuJM;Ki/eo48m4B#u$:UR,5Fe1dEJE_9FrX%`m0bE"?ILa_IqTX633B15f/Uu6@K3,ZV8EOlE*I*I9%U;0[RXr?_6b2-<iRto=b<;M*Q!S?ZNet2+R'ilEHk^,#?%RHLeEXf0^OY2m)s-$S),2BS6sr/(=hFf_$;e@lhTL5,XP%[J6Jk(9ZA-Q5!sZ/gS/KM8]_(_WICquX#0cRj"<rn,P04#>K%RW^.:cUZArQTto3?p:6gTbA_SmkkJK=;2I;Sa8A(7e$#2IQF?&o"O,=/gBUN0'HQjqIp2>)AW*so>IDa8$*i&ro:=$_b\h#onr):cormdl^_6jPW&.s0eeO^Psc?<CUV40lff09Y'!gn9j-M`RX@Ik,a/3o#ZHD?b5;N92%<l<'_sW%o*9<+^EuT08S"AD_^h[trQ%]K`:6M)<>1?G`(Df,Gp=E`9+2R:%@=b2O.2+_l-L7":.Qo._e>$Km$]L!f6PY>G:6JX;:$:^lDe/'OGgQ?B`imqN%b+Vpl3/&VYS>]PJ1")N([!@aAG`EuNF_."c#1a0^7S$J&<dR^M\D&9q)0X3/b<LPUl8*9!H.)hMb(lK&=I&AMMb:6[I$K*7>3,"ngAr0j>as?e1/s(2QR8q8O!9_`hl2h^2=$;^NAT2ChY*E9CJ:DN-jr6PcQ@"]mjjI0VD$68"pcP..mRQ/h53]Q&O+ZC9n2Y1U,NkN7Q$oRCP\-.O$O.K@&nF2-PfQc-1a*JbGt>H_k5Ku)^VM?`HTOe9ra_I<_bLfCg$As'h^4Mac4MO#]EFV-)?B8F7B9L9n:oao'ojACCF,SjSGra+/lpV.I/9X,I,+Q`+HDqMeJb2fO5L'd)bDg&nEKr?mJ\r[Am)ItlOT"ZS5[b?Oeb*_"Sn<87G[J3N1D0S:7-rF;O\d:M<=(9XruaB_[0^)8&`M'S%HcRMSsBY,Xfjrka<Zud]j*N@8Cj`&SmgalN"ts?'Sr!2j]rld\>s/$-#YYSBkidi8W[XC6kS50$J103^,)1r]r?@3AZ@IYAcP_67F\7<p3JZM"=<uc?5!XkC0CEVK6HHWclm,s3EUZ4r-e>[rflo1h!l.Qf]E:]<T-#_cKM0.I;66YYr_Y%#C)O+dcKi$b*3]<8kjX$oTTU'oS$3X&WFnpmQ#Lke][ECQ`bZ3Q?Ttl&ZPEmh[%Sf[3fHLCC_Eq[rK7dTfnGTpkE4hU9od%'^$V[qLnoVs&s;/#$V*H@(Kp%g,fuOI<u;!X<FX'6q$-PTU%hCeKdkNpeRpncG,>F:4s\#b:hu^>1P^~>
+endstream
+endobj
+286 0 obj
+<<
+/F1 287 0 R
+/F2 288 0 R
+/F3 289 0 R
+/F4 290 0 R
+>>
+endobj
+287 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+288 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+289 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+290 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+291 0 obj
+<<
+/Contents 292 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 293 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+292 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1500
+>>
+stream
+Gat=*D/\-!&H88.0oC'#pPq;e"q3Y#,m$g[Pr'2=4.Tn2g=QdLYe>/1-7.r<^Y(J(L&adQOtjT?o'FRV4(CPs^Qs>'$,H?Rc7UZPC`#s`C7#GI&&9-VHonUaP&;5oL1RgJSMk6@7U9qgkm?WYV)_LKd$+u?>FDd6A]SbX9c*Kf0TNs4PDn9)(="42':D\u="->"N'>*+P",29cQP"/]%m_M]n>hWN;nG&>;d&G=8Zs0CNZ.Kd4%%jGR])L[Xr/aAn7TS==jep]*7#g>Yn6V_+U[WV7:`o_g)FL^Kf"75_ha<)jlBO%!aKs[on=<h.h%<a'ZW+b!]t=I3rWpE<0_1o/P&5:SB;U)9[!0K%Xd.*YYr0'Oon#i7N51;Z88=;]Wff6Eu(KL*+j.#f])BqjL>b_LOh8CmkDsJLWVe_'H.;H&/sW>U5EU8-UW9;OL*irX%V+i"Lp2bQ>*^OVLOm:VcE/CLtlkY64:aOAs_;jS<<L%^0CP5*O*YS9[bL$(pec)S1u;Jt?Ae@Ob+91E#=QJdb4EmTIc><=PfFmA)!:Bal<sF.lW-<tUW"B//I>&/>hL15nDKY!MOAXOf*FKj86*(E#luP7G0L/F(JTk7BA:mMgtqQPa$Tef-e\aH,:n\<^9)48WkCW(IE=1)_=Za^4.*$efI(>l\Pg/pmO=!N7gUJBADdUu5%:%t),gGpm0\$UK:Rp]44eWP"a$AX1AM#$hd?!im>md__UKDL^T^,u*d9kaW$P5#HS)&Z[>"]W8M7*_1/AGDdGD5nB*tI/:G&O?]J#o.)r7^IlTL1\_'T#P_+mge-LJqH?X^^>1B]/[p1h7bqaWaruAqb$P]7LE;M<mGNDj,"-Glj-.r>mMTs*'6;IVb9pTlMj76i9_g7u-[?W1g6077"W&'3$VmE-96:8.a&<W3)>jqt,.=,2#0*XlR5FU!l1;T*/-M%)0N/=T\\QkKSRV$3[GY?/'%DE>TWJJLo/K)V6/g[Ji%,=0j#&gPW3b\%s2B)C<DgQWa2CUYb8G_lK]cH(+7XNVf+0l"+7\?bB#5br='\gP!QFTE9A5Zkl:GT(3kJUZ32^u4iHRpLVr8W,WuT=]`Oi,qRCXrR+ic=V/oZbQG0Bi0C,rE0`:CTmf,Fg8K8_0W?qP1GM=>Ge"/?-Mn.*#nA/pN<#hKIC^A#V@mRH"cT*#1lDuT8rJT3L2HQtNMDoYi7o6Z0[D<jrYFC*\5(u8F5lfHRVkiR&ebZ)sgFZ<TKo3c49SR:b844B:hW2#h%p`[]/847PNFdCcB1h/N4lAT/bQnd0p.'.YG,`O1edgm!lY.N6EJ::kD,V:\b].\I6bZ"KXdqD>]M996&HPu37NDX1Nk%g[8*>fQ9TO(Q]`F?i58jMrl=`+YId&]WEDiFh;DN?/:T!E<N,W!s:JArY[lrH9&%P1Ehc@?0mMD<1=(.(sG)_Ak?asJWD=g1^<P8'%[&WS>6-C'F7<?l'L);0u.W3sq0mW8LXrrX?B8/)~>
+endstream
+endobj
+293 0 obj
+<<
+/F1 294 0 R
+/F2 295 0 R
+/F3 296 0 R
+/F4 297 0 R
+>>
+endobj
+294 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+295 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+296 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+297 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+298 0 obj
+<<
+/Contents 299 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 300 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+299 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1500
+>>
+stream
+Gat=+?#T!f&:O#NR$V++($1T8I.V.'6J5CSFXbR8V(5l21Or,-kLpE1C4H/A';3-0JON+cqIAZ4cHM]U#Bflfq);(LmR$^"o>'r@*.o'W!XPFV5.pZ5iN5k`g<^2>>.]43VAlm>cStLWK'mq(F*',[;a,GCB?Kt>+hpli[-1g:_?_VsB%]]_4u;]PN("2:P.p)\(\#4N1fA&m_hqgqS&<EB#i?g'$a+Yh&@*,Km%A.N>TZDti2ki?q+KHP?DTGhWPd[P@HdS_\GaW.K#7ohEZudWhQu4J/YI#ScW3=.9\VGK9(3#[+NRSn"*/lA\2fSaJ:G6UWdq:91e*E#(jiMkP_!On?[Vk#f/Qel@FemU04G.u>W9drMW+VVL>0*[L(=A'W(][M8-$H?Rm07#;^j\ab76[l3Pt+*'6I2!jQ,g(rphpXH<,@S[bHF!@4T[8BZ*:[55`VMRh3C^^g:$2=eR+rC-E@J\Lfo!'9_5*'o$A@d&e;qFpJB-NAE#5F"g(@BrZjte6EhA@laljW/YEJM,^.>Hcf!j;M5OIgocN`bcJu'YZ#.bGX,aJN0r^*3Z3LR)HfDm&CL"t#a_1j8ih'lQ2JQM]S^ro]"4m0HEHVEg<CCd$`H$(s/7o/Qn;1).V&_mr/ecJTgKT*2$*7Y'1Ff)PFN&M/5;BV&"UaZSSf/T7E:Z?&64O>.?m:HG?:(L^\*RNY)EOL>*4V:k1Hh6B[`=T$0\NW<(%osMRM7l%Ck"NPM+](mbSUCW)Ya5d7fh2/s<CX-.>2K1;DF"-]?%ecX%(W,/or!N^CiJ@RQ/e(+doJZnQ%qU+D;'Le2;c*-Gda@rU6fhC]:JnS:r8q7@Q]R#0J26J*aF#P*g5"dRak282[:;+(h-Xn32VbnCHB+I6f[ZH6^6`s"e#:.rSYV-7jqq9PF&b!?.XQhqh[TE\0?dPX=TUf7j="^"GeN0Ls=Z9UZ[_3gOKKYp#74nk$pC0QAu$!IsD8dkl$=\*Q60IkPA0Ij*O,;AC1B?4DE$s5!RX.CG"HHA^*W#eUt_Jc'is3PPh8Bf+ae4=]g,I@hH8JOK.C5)7AX:-bUO:XmDkNE]\/qqb:2\U3kDn5/E[MG&DLQi4C(2T"N\^TJAdT93.eO9%-APS7oU_SeIaXU;EOJ^g@J$(?aXrl/&m<R/P?pQhAo89,FNL1m&b\PYo;"KYQ)V%28-LY2bg>ThB&^j@NMF+&Wn@]o-5!T%Zch$,YpHeP&:l<+OHNYb:N3?r6JF:Z-7F7GHT>e\";TJItCtS:0bT.I[rHeA[)_Er@e1(.`>F7>9PBbPO-f<b<`0D=#LhM[4Kf1o@-_'I<`i\1<R-6lL*X?sS%\@*KJ9gdqL796pE,ER>RT"d@[Ies:r?3C(>c`Rf22?(1(LZj&pfDX)I0Z5sY#'Wr2PU:dB0<32/Tj[1U-bM%.h<BnQU?DZlAa<McgZ8D3^8Og76@B=Z/[^aGlAi`@'2Obm`k0Z0?27G^UGN!p^cX7f-^~>
+endstream
+endobj
+300 0 obj
+<<
+/F1 301 0 R
+/F2 302 0 R
+/F3 303 0 R
+/F4 304 0 R
+/F5 305 0 R
+>>
+endobj
+301 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+302 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+303 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+304 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+305 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+306 0 obj
+<<
+/Contents 307 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 308 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+307 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1411
+>>
+stream
+GatU3>BALZ&:Vs/fV]5H&8KBiGfq7sVN[NA!hI'd755,tfG9`_./EOKjU2oWSX_ATY\'`fn'c#)Z4.R5G5`R0!<8#:qkX`[JakPKDU4%,%:"ifrg_X&arlAQ[<l?7%oEEVXF*?0:Jf["Qp\gq9bFTs@u:h-Lj2'95WoLp'Bkrb9qN\ljpH"*dS.N#MZ6>p<q(a=P:%O9nCSm"nK5MpL%,P0^VT/p%:jXCcON%On%?ihcme4iq+a:EY;;]rL#HJ;n48?GB<R_6@!KOW3oqg.\Q]ZjCIEX[3A66G;5l(7*H+UH+N_FROPHIKqsX,0kW>8d.d2e$&Mq[HoL:sb@]Ht0>M3,pqiH8XM8<W^R/)S^Ia`NOH6u'=S\\K?&f+BXYXejl;9fm^3FQq.:RONS.Ku"6agbjf96D$bC.&K[)UCWFh7CW[Br$GfD`fL[1h0/$HoJS+r+6(5/1"T3AJ6!&."sH^__n0`PqLPf%+S8K/7aoZ,LAH/&`\VkES[g_lRgBn[:1lX66]5Y,YrDB]`()Wn%s[ugdm<mFdD/gMFEq$"'r^0h/6/%3YDbb[JAYE#>J(R"n1X,i@)3<dQ#FZ#nNHWINnq6O55!kbdFMj=>(qNle/NB7ekKsq&VMhKpd`@#1)1Mf]>+n$P3HCEV@6BEn6d;a_6Z9D%6$EX%&4:LrYO(\slJqR;)hEm+fNb)3,M_(GSYY;dgcW:jP3[;moU9DiE$FjpIYHk5&D%D&]4o<f3`/N!)GO`V!n1jh085Z0m\WY@%)#rh`i1=E@$f/R;W)MK,4&c,SO.#F!$>@k8p%0iKkOFK6_9khEt^=:Goh'>8JJFm#4CpkcbP18H"p:3mt_2IW6=JT""4N,kmtb,cUTI8)Hn<mu6J8rBC''[(;A`R..iKp<?BQ*andm;LAS;T`rTah.u%gYt1-N)N*sJ5dB(0=[Kq`VodQ)0>XT;]0Y(p[cW<$S^@VV6NR$"W)-d'R\>0:EA'e.,%uHHaGLtIV-\'6Ol0oJmfI`RHTK9_DLAZJg^8.WY%%@KUXC1rl,HA[FV)@ORO*M=+"_T':*$AH=[cV3blX0JeclnCc\'bbPkC\*Dl-6D!Monf@)QpO?:-rgCU8la^f/O6I?btTeqRZjp?O^e$>5Xl'#Ver@<!gXB)Yb:r#,kH%]6C=^EtM\L:nB>#C"6(`gXDmArY&'^Wd8E;8f(HZ4:+fC6SA>a`<SLRkH1KCdb-1,/EpjdL<'Nmr^B/P9GuMcC?=i5hR?&c5J<H*q*bT07RSkmX5$MD,a.h)=g.appX@UCKQ""2O=2G7sk1J^b%fJ$qHW+E)cP+d5hV:@SML[AF\a4XNf!_;;)MC;k4R$'ATqQTW5b]?,RVnDg2WO#4;8IX[`:s8TFp=,`E$iqLo@`i+X>N3Rd9_o[DhJ@M0~>
+endstream
+endobj
+308 0 obj
+<<
+/F1 309 0 R
+/F2 310 0 R
+/F3 311 0 R
+>>
+endobj
+309 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+310 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+311 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+312 0 obj
+<<
+/Contents 313 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 308 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+313 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 316
+>>
+stream
+GappYb>,r?$q9pdMRtDf$CRieJL+2sYlWtl-5/=\Q$G%og@Fo1;lD8#P-=>ZAV%:C=L'j#Mo<N6JES,"&F3p;q1c#Q^+/Y3\`pB`2GN'nou0d]FqMSj'sG.+\jo;4A[MoH]9$&8AB5/nT!:HS=g<YfHI%Fib(6eW&6"QUNeqsmN"gQCV.bnUCof@3e2]uXT@iXo8u5h236TDI[SqSZH%<QJC3&2GXKn:0-p'aWX62SXNh#esUgagKQjH-?CoK,AGbn>kcg8=Q#ugofif-G8=-l5r2;_I0i5ViO-\+t7pmIS#Xh=#6"KGfneSF4~>
+endstream
+endobj
+314 0 obj
+<<
+/Contents 315 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 316 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+315 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1074
+>>
+stream
+Gatm:IrF=+&H0A9@YAj$FOfOE"%(_jT%!ht?&:1>TN@Zu$(8^G?P>N/S[.U[hf21STIkM;GGToLR<eBdDoTd##@DBE*bPJ>;u#b&"kSCk!o16?L?T6Re"ar.\+8m?cu$C<(nQEuJHi#/aSR3@F_`rFbRho!2`+@&B7RXTh<AC="4ICS51*mn=o=rNROClVI,ar#`97Ol&t[=$G_!m+*&!,.O(%lD9]*\N%L+]cK!/I'DNimL;MNP;6`k4(4nAoZ[j8MXiH?C8]DsRI-c0A^^s.1g'DVXC_W8lOH6Qeq*q"]/W$pL6WPRDRI#V0Gk1@!69gSN/p%108oP80b-EN*I,c7)&-GVd"1!RWMKmo/^/1-hF67cZA%WZV1gT(VXE[0g8aGae,'AOFMQ&m(Qa1$[1WA]tZLNZg'CEZ+Nq-'2Lg$1<"=,\M9"Y@h#f'0@8p.XYGpS-TNAqI)H!%Cr)?=\+,T7b;%'tg`SClHog`*BGiWtcFCMi>dr93T`JNLQiO1_b4e"\E;o\$fIC.BY+Z@$-^*OK2^]6s=+@"!hfU1t"m[JU9-_X6@%o!R3iU_,>,t0H<sGesh\V'_s(K'<Ms^8"S"o=3Ipg$A."(hce&^a75'6bp_0hKqTX2TpFrQ_9]TLrsp(2717$Xh:3Q(_gFG,n"F;&Lf:3ul=21(]_l^8GdHeOB#t*APUL'9n[[3X';,se*^d9692H;s"6r8Zol7jXoP'*;^XT/DBpL#=.DMd9P\B)3*W0in3uJG3]dYdMk[_GT-b%]i75@_ZNA\;7J/5#fMPO4bE#t).AtO"F0*buC4YZ`]4M3Q_UN(c;L<I@*i;8-uDr5u,<UtJ7C-9(^14R"0@6D-70lW,Cr;O-XD'u9?\7bA"V`+LDK\PgocP5qHf[>P>o_n:"R4?nZNcrQEji(sD^?-kQ**16?<6+BLLkqj'.(mU)2'ASaFZ#iZ"IA7S2u2^.(q7MtCemVb&'T;B0g)<?E[gKFR3g*5H3/>"QXG,2'a7=l-"i8B/Orp3)bJ!o-$,A-]uCHb!0IZr\G0+G]#C.'$Z_Q^P]<_i]s>K%G<$.7=o~>
+endstream
+endobj
+316 0 obj
+<<
+/F1 317 0 R
+/F2 318 0 R
+/F3 319 0 R
+/F4 320 0 R
+>>
+endobj
+317 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+318 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+319 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+320 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+321 0 obj
+<<
+/Contents 322 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 323 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+322 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1506
+>>
+stream
+Gat=*Io#)a&H/4s0rf?)@F`OYTg-(tV*_Kr.gi*^6FWsoRD`sU,]VCY$GFo:pDZ1?BaZN5[\=-!bkQJ?S+/I7_lmR!K,EOrLYk<Xi4.]@_5Z13n1VWL%t5KX/'Cs4>'7l'[l\I!^kJ4[&@2K2Fc(/%(h4s1S@/ph\iPr-YT#1dX+;@EeK]t,$PkiqkS'qoJ;XP[(Q:Pp3D%)7c6$G1\M^iV5!/uJ489oV[uD5\lit4okaZd;00s;;QT;FaLA$QJXKsoY2%6AdA(PQa2dDFiTHO`0UQgQ>p_?7WQZ0r3QH\9IMh`%c!>,[o''*i4R[p2Tf(N"Jok$DD4J,+I2>Rm8.%gkYN.Z0[UU)$:bES`8-8iR[N>-rX2uM\&"4hEQ`U:JL"J'QF';]AuV]r==3GKaq'u>#Hr3gI+<GO(/%&)P17WK_'J]0(YlkhFjIeAXgs&k58)-(X][Vd=?.h^=9-$@Y::m!;4:gjTs<'7$e'!f#F-JQHVY9MXF@RQ6YMH[?j^dbf$NlX!gcq-2Klm1:b9>f;XU<;:oM"'L%s-o](k;;E:(!LB:Rta>i2B2/fSqKclSt'3<3K\CXo+T,":Yi&m.%A=MO9n2dSHpMs>1l:hWB0if$Y-#TWZ5*;,a-ngBL@u&U(O*<b'&pM*$83>D#\p'U+<BILUp#%'ri3Ag25)l51(LrK5E&e94#mrh:F`J?'T0cSr:5qI9EP'mbMA(a#K(B'7Amm_$]STAqJ<a:A@$'f:@q-J$8.,Y.[@!l-]jgQ9QR?RO*N>;!;7uE>@mF-XhP=DF;$@KN(Jo1?39;7Op8rID39F\S!4'QQkFh=pj^9O2C:Afr>oUAJT"%NE6\Xn!Lt3)8BA.-2QV2cNMSBdj=E!n17FG\\jHOAdC,Ld?)<#'(*hNjbcG>8[)P=R/?MTa7`hh>u*uX7^;U"5$E&Se)0=6MJ+c?qt/olSG2?I?$fR7G8L6=`&pogBUNK6\g(<m,9u[*47cm?N>F1IfCch65J4Zj)d=CXX:J;b[,rZaW'd$J03h#VrNVWOP+*<pL"5AFF[(pd^AB[u^)b#R?Q5*``_cH64g**(EHAmSC_TNdkMFS/iP?mTe7uBUFpl9++70\ugM$P]:^0l9VGSm`SLPD]^J1a0T;?S3?C_%hc"=[;c<iH8V\tr)>=m"!#@4);&-U&kFUD7)1m,B"<'a@I!QnY*E3CQZ+k"sdaE]\7@b.PE(*#!7/4jM?V'KMQ[M=DM??buj?us:>!eWL74@'>GK@8:<Z+AR0R@;%d^q])?I.I@$2>D>Xm!6LKH-QtC2oL!!/W)TpDDE]-i0fKj@iS_/)\4f](CibX$c4)D!UNNkXgO'fVsXC-Xl\Ko@hLXNhmbh>`nNR8oiKg/V+;7+Q_6=bV_fTBCH]t0q4%X_6Aj$@iaj,KP09i-$?Q4A63q7k"U2_RD/0WgI88HAH(Zjf6tIPaaTPsa*8#c0=iAh<E0dY`)c9J'PZ0>I'$HV,b#3=PW8-M?%fQR:R:HO~>
+endstream
+endobj
+323 0 obj
+<<
+/F1 324 0 R
+/F2 325 0 R
+/F3 326 0 R
+/F4 327 0 R
+>>
+endobj
+324 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+325 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+326 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+327 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+328 0 obj
+<<
+/Contents 329 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 330 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+329 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1159
+>>
+stream
+Gat=*gMYb*&:Ml+bf^(U_Jq1'R_Ce"M[e%+hF)3fo"n3JM/.uJG]E#fIf']?>MT!O_u^?=,\IV5R5n4J?+Q3ocYJ's%,QJ/+A!_,+R++HOF;[Ufu;E/ZCX&p_l02L`oF*SXe:5_*&-IXX\H7_BOOW/;FneN<18P,l(BgLdCLr@3OCt*`u^5uEsoJ$3](fNk^OcF)?+(pJ(/cS&$<4.%NjQ@KBs]$re/J.(kh6o](XJ[YBjj/"ZU:BrOC<rJCg5jX9glMnKCV^0_s<>KRa_"WDY-4,?+t*UN=bPcjFBJ/_;spbd\,)<jG)?&E@H.`VAaqs6;`E(&HcfVhk<UXF&h]g,Sl$c+K/7q%T,\Z;^@URDD4ZRQ6-`D2928cl5mB[D73HqMmWf"t($4D.Z1=U=lgQnb:r7H,]*O<l4+]ZYgHn3@Y84K8f;iQmeJ418JJ-*h@JP28s%],"r]79.TAV\Y$i:GRr]"'KHP[*h@QC/_,Q_E%ah+WJfd"baGmL[X5U';!32:m&ADT&)LCmpUHkOF\?I!B>i+pdeA)A)gO)[D]F?VZ#+!CF@1op%baYJ+\%K0&]\'/eTE+a+Z-f'eD?<7SN&RDfYqUMdK:Wu\_s8p,8ufb/EB>RLABd6^"3i_)hqfM]SZtc6K1>]%HHkYR/ZD*[mFd2_HN!c2lJ4'37^AVK23Pjl^VLoqc<M&<%1KkjDucO4-d*13hJ01GO9"7.t(XZWF1VFNcXNRo<o*5qWQ*;1?kesgc*I$iS.'GXS.AnYQY]'4c7$0^#TpZ$oh*a+t[`[eANJd@,'EoYgi5C&\fmY@>BgX6uSc1NeWjL6qPBKF\2=L*"_R$d%=emoeIq(:J/u\Z]VDM.9QO+#u,kE[3IZbPNe8%l&O-j/SP+2'&2nEQRhk\DkLQ`<,O6MO:oghGT"TJRB7Mf1O1*l,@ldE!W3,u)au[fO]^b:Y(OWDdS:M+J"^j5\B8Jl<feK*D<ukC1cn9TqE'K$6.3NJ9Bpl74_T>KkgSMdHq.;2n@?un'(\qYJOp5FSg]nu*-GP6'o9Z5FbFs:,'W@)1`-Rf=s\R#:a]@G?s(Md>3o"agc'6gKe/>nLsCm`%?&cA6J`Kl/=nt.og#[jNs=VoKY-JZ,u-QT@Wr_GG.LrjgurRXar`88#<sW;j8~>
+endstream
+endobj
+330 0 obj
+<<
+/F1 331 0 R
+/F2 332 0 R
+/F3 333 0 R
+/F4 334 0 R
+>>
+endobj
+331 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+332 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+333 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+334 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+335 0 obj
+<<
+/Contents 336 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 337 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+336 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1274
+>>
+stream
+GatU29on:'&A?DnW(SBob'L;f14(7PTUfac6O%06d9IT6)1$#/Sc4.JPolX`"q7hr@$?*DZFd^*F4GV;NhK2)3;hnb^onX2:1B"ma9ma8;&?MC(hYdWh8K335mi6^*2VmRV&cqi%L[T&6[RkU38.K_;$k1?5:T8&5tN`p%;9)f1(LFIbd+bpq9$Jt1DVk'=7j*?\:IGWicCqsnBsq_8cRo.435-$p+s@2Es=ArS\B$ponT*=lo^h%]l&)CeC/3h/QqIdd,do`oO7CBB`u`q`mmCTLg!acQtjTGDM>)u.bT!kF3:jQY\YUU`b.:AH4@o5Qb(*#oQTX`9q;@_'3b-1/iZo*",oE=?n,oU`#^7!8:%"gbh@^8nGO@kl(f?h6ZH<T0_l?lPK9F]5SaK:@#d6g#/Mo(N,gsLi4f&HmKiuu@V^j2F,:KVVBcs^aAl4`4j@0_m4Y-[bG%Q]gFn(V$fb<jhM/p2*5Ssnj-iP*:iE"0iJXcl=)6;"6X$68m4(qt4?]UYPDX@a$J8Mg%c#T4jSmM0WuR*B;+-b6g.SUgk'Tm!4E;fT0M/.,UI:NH;O2hdiH>IDW4g7MBr\F7\n'A9-`s\\4?@m]djX$lksFlW\0`i7D-:(CRL`+rhSX8H%`Z)-"bOsK'gH+pbMu[JSQ-T"S:)k.YuH$rZM^B:9kNXI6;heS>G+!XL58]'o*JeE_/iESb\F"VnAkLTE=ptXObi)q4>?mq3L0Vt;(!Q'R$r+#>RRS2/KPaT,rK[JO$a1R"?W"dDFdc6Z;!lN6:`h,e*R)(rm*<T!iS?QUM)t[hNjqgC!,u7A2(>.=m::Zo3Sg@bFVtZM7[C`r/=SZD0Kl35eg-\$a%Qj)de<h_LpXA]2kZ3A@%h@a(oENnB&p@'nnqHhBX0Z6C4B)PfNFXWiVU'F!601]`f@UmTkN/GZ8bA5=i@VQP,^1)fW3aG5UQ9XgBr%%G2O.rbLX<7W8aALF3uBAiWpdo8>m(dHNm^\3V)\B-#S\m[;7H7c9]_e"dQKT>-jW,:We`a:$ISnks"cBbO3HUnVo`"AX+LQ$e$0C*\p06fP)eXpE\eq"H[;dbb"rE&1SmZCecbb]9eP(@"eCP3rjn)k<O<j4@HiC2utTJZWss;,2-[=lg=B?lFCF*nZ>Jr:TV693:MX`CALVDf[F6.`kPCa^qFH*%PUu_pF2pX?]@kW)7mJJYm#i],=4sEbbepjskSO2]S5RLKTIBnkfj>NY5nT0gsMJ5j=mb)Q8h#6n\Z")$b'Y!B?(fEW~>
+endstream
+endobj
+337 0 obj
+<<
+/F1 338 0 R
+/F2 339 0 R
+/F3 340 0 R
+/F4 341 0 R
+>>
+endobj
+338 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+339 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+340 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+341 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+342 0 obj
+<<
+/Contents 343 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 344 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+343 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1387
+>>
+stream
+Gat=*9lhL;&A@sBoHbqE$\U/85'i4%ENPdV%@`P766c[d)JPoVSCu&GcdN<Hg<LP!2-%.ueEVL/Y@!2Op$h44h`N.[Yb5@,qU?V6@R^5mG=7?.\m1d'Fjf/9:8Ticot/];fb?NPcmooKH@ij/3ZU+j82[(>1o;0"@\U\QpN2"84^',\RPE-S<q;6F>NWT&FKP)HQ/[pT@lda2Z_<0*TJm]P]R*/,YI+(Y3mVgHfk5](Tc9U5haA:>m,3lGP>3@8f#=*>&I0@!#(nY$Ig]:R`(?:VQ!+GDF\6l/,_:;V1u0T]lu:f9lh;f3_s`C#0htJZN%^MeB5b\kcjso_9(]SYH.f_EB`p>XY2]([E3g:f3!ADd4R.rN21N3D@V'Aq]GCn"`#:?=a#*%)G;r&kC-:la/DaNt0j@J.Uo&gf^OPP3o@_BYhU@Z@GYdM/X&n=G$A67X8oj&)jdkGI3]R8W'pC+F6U*MnoUMZ7[&3'eag05eF)RH_ks6UbBB-JEN2o"DBs4U:HE6_X#ti$r'hQ4:[3t-sAZ9@,e16GpY\72sFGIC:2[S?Ii!k>T#q[%PK\Wu?`sS-O0'@#d2n>()]6;HP9IQ8/#LSQ3%T"Lk2V=9-_a>bm9Xi_SRp3d]`sUFp5FIZ@WY*Ei'cel9[g@)9ddo?]etms3er_oPf3#1E[ABhXK-X3<5H%Rrp!3Y(I6k>39/%3n\?[Y!O2c&IPoYl4[<%CPdBn!iK8ZmT.br3:J(!G?-Y%Ku?Oclq.#%YlKo0k9(K"2a*;gs>bW+eL4t,r5l9.j_%fMh`4rT^5Jh<7,Y<-NE`,3r(err+A@@X5[E\B6Em2>%5Ta#."N7c`Vp=1^NWt;20,D]#'=sTalU"CR3YQTst3hEsjR,_RHVes9\==_N:'<LSb[)l:g`ClhgeA5E+f%=G!j:dud2HcHNIE,b,hI_'&U,$.X2=98tjh"dur]C-cH5J(ZAlWit97t=u[qVTuR)?b[#.`;i-C>1.Z7^po`PHl<,J'ROS*MU=M$1Gj+R+h78'PcpGaq<l5UKSSfsJc>-&`Ng4=8;+RZO[rQi/:/T_!/e,#4@e7D=<!H=jW=^ck4/FA8Rg%6pi$dAgn`ORq\/[>Y/$D:6GI<<5,47][b?.6#';Ep1JL4'XliT67+Q!:Ut^Y@amuXAnZ\LR$:#/b?nUo8r.THFdMJpULgV_+Ugn5,(Q92*7_tDWl1%RKYK>;(cnj^BhuXF2F&m8Fmcg$I3T>OBE/?(D?@>Ba390"m-p0"9m^9?2gBF-8hpMA'JUo!pge4+DA$E.QSs6/;Wq<;R`DqZCn6QM&7<SKfi[D:CLE4B[2ldhX3&(LnZMT%LABjU/Eib2J*3RkX$R,D2n'b*JJ4)$7Giu/=l\H!'*K2~>
+endstream
+endobj
+344 0 obj
+<<
+/F1 345 0 R
+/F2 346 0 R
+/F3 347 0 R
+/F4 348 0 R
+>>
+endobj
+345 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+346 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+347 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+348 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+349 0 obj
+<<
+/Contents 350 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 351 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+350 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1284
+>>
+stream
+Gat=j9lo;`&;KZQ'n&Z29jq'8ikq*^@DEh#eeMZ`SpVEO"t#:@jS:LG[6Hi<,EPWYENPp,.S2GFml^Pl9//j,O2E\&!%qpRq'q+YJ_:+a[$AMp)iSEB%qkEMA?QNW1iE!`(O_`<&#/PY0@+<L>VAS\$X,$2\F5bV'#.8kBm"_Y07m=:N=iL5Y'IH6E5RW'%G-c'NuU+J#F"sgWAWHiOsoSOJ,0;SIphshS0+gub5S:<J\(8<qd">Nc;%[aG1u]])T*:?]ahWd:Qd==St&:>3ajS+>U!o8QS?f:GF@Pb_F1Wq:?R:E]3!ZVT+rHuf^%$*s8OL\G[Gor^0TnNW#pA4V</!@7S.Jt&3F?52-3K7Vt>*-8LrHtrFM^CTle,P`LJj*Nf%LoU!mn%.j6?p,kkLX`X:Hq6]D5cmmhg)9eBcrRFk]7R5[VF7TXP]Q>C$g#J@:b=#K_rVBs],\@[3:!J/rC3<("2a9i$A@9bK=kWE9He-Aq_R<6"tPFkLdOHhBWG3ds-,phLqqW.T/nZJ=Z0V]1,<)_gLC!<Mr+SQ@OC:1=I->3f&PR/.@b#p@l'D$*Y6;chI$ls$U?o?*^1]\nl$O#Un1)U`N\QK$)UWcbmVn>lQ/JQA;4?,)XC9_UW'e3<5&L\6Wq_6lLF)N55LMRE@B;fp2Te"AfDH\E-7*uA^Y@1LgT98Sn60",>CKJBVE/PL.(NM!#g5A.PI=r!^%rpH[!ST#.C*fLV#u`GtM7TVU70u<@_%P^).uTgL&IQ[GeP$l^[1K$toR'F!_3HnN9Z[HF3ZSh<"^:&P>iDhFE_;SKJjhGF`fSS%Q6Kn-;[&`sSYkWV5n?sm$I31:"FK'IDGS9/dgq$oO'5C6N[&9g)ee#(>J$*5WeLY.TTNG-oFBdGj^:XQAs-Di"4)C-/GJ*&`%?@L:0?uU9Q/+S&j/\T3Vk5P==WSJqcuT5SlK/(W**qFW@4SuCtMP,T(fGY_/YG<Kf`#@h=#iTp+6V^`hTE?P9dOp@?Wn9aad7#(&_r=n&;EiBLa0',77H15rX;]Z!Smi'.3pJhLd%'*Zm8PL']N\;a3HR2#\QmoQWFgkIX#>9lBtL*?RLC`h&6q'PcrR:mqR6frN7[i0*_Y24"ig?DjsuNd:0.1<lbO;H9;\8Wpe0qTY=91<ntf/%'r1En#se24$Gl*LO&+r>/%+\R`VF$D((plK'.Q1!f7%o\ah&XIA8YRIKYUr"h/%akKFDd$=B8n+43&07^o2l9@,J=D"*)Wg:6@e#bL1W;3-9<>9EG++mDD'`~>
+endstream
+endobj
+351 0 obj
+<<
+/F1 352 0 R
+/F2 353 0 R
+/F3 354 0 R
+/F4 355 0 R
+>>
+endobj
+352 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+353 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+354 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+355 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+356 0 obj
+<<
+/Contents 357 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 358 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+357 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1421
+>>
+stream
+Gat=*;01_T&:Vs/fU$ck%\_MlE#o<WVJ.\^$;@)_,3/oLaHe?ua`2Ad^:Ug.O<Z$;0O]ndXZl-]hmWrc9:qmTQ79WB*.GX1+:)DiKHTPJ0`MQjo8EW$JpQQ5L1(d<iqP"#'f=8h#OL`-ecni.>*r3d&;$9:Kcp[.qjm_JeobDm5jLmaZ*6i<*'=MidDC<$hbOTOi=D%s$Y)*afF#7Li:58DR"'\_DfBt9K96%!T-JH1X59?0(etMn.Sgs=][h<ZElLC0+2`$tUMkiT@%;2*X]1$g<ORL92+\t)1)Wcmf[`#0_YP:q<e$2*,fX9-_>&%!\p><EKtc1.<1u6bY0l8Q^;"`rJtF#VMi<diK@LM+`;VNs\26)YhIAlb'.:'W#)&]43eEO[\5O\pMA"GQ_FW]Q@\EYrhYd@SBU&i)I@j)r@.sH@O`T_+>SiEVTSND$(\6p7[E;m3:ILZ/1-rb<,hhk\_hom(Di!j"f:^'k+`h))3ig(W2VCuJ*f5U&pE#CR=!E[OB"lJmae(Y(l\MSimXMH9-3<AuMm6"!@D#(?dE;9+`=YQ-d++fCOW:0$mT@WG7H+n0"M[E&]0.aWS.8).;5Bl5'GEo,e_;um`iJ2:S/3,L)kEXED,AMk:3mer\H:M*JdH4U.#DU`Ka(U58?8,*$C.iK'tMMFCS;3:aV6>g/J^sFYK1ZJRZ)q&!YY,lBhTX.c<hWCAp7uJHrb\*q49E?M,&=i?0?#VKAf>BgM;.n,,n6%4oFu-mjORPr7*++9,i.!jbm\U4tVHC'KII$;6KJ0MpbGa.B<qi;9Fqtl`JPk91[0l;ispOUm/E5PL#DhVb19;6AfGe_,GMA1"U$\00nU/2)LR";HV0\+P.fY'pGuM,MJ=Y:l.ji/D/,=KjmoSE-R\ChM6NhnQ`*4gTM6t7`KCAeOg23)PI;(h7EKDl8[&<W:2-FR97\\X0O4gE#VDB.S'R3:U4>2ilP(9EI/@8;$k@djBe\J>NKXCA,]pQNaf*t/M'Kb+G46pQD=ut9aBf]!G`C<'Ht",l1IeH1osBF,hu':YtAf`aGh[J0SRt[EW@G.cdBJXcI*EHDr3uYdr`d"NSH"hTYDiJB*en/-5?Gq?gRMJK9M;b0c1C/U2nbZ?C2Im*i?kZF80b_fC6;LiT%0J'H,+p9'dJ+Tr(V"IV_0kk;NVTm`1aE8sn/Yl-$'f7H]\9Fj7(04>nO`RE.O1\ka;A\Z6_A:U>QX>04'UiTgq(LuTh]5KDQM@VHiBiN1+AA'7%_4NuB4B:U`4#&iu.MSA_hfK/SNA[pET=R'3k2l#**aEl8YUL$>\PiO^'SXm$J)ssd4V;I+U>:*]U[]i_<&)=BI^TutK"ej0ZdA:Cq2P$)6N-&<?Wh=AJPmMDALi\K=-A5sHC2\]n"-Xo<CgMu-0)c+F0koq~>
+endstream
+endobj
+358 0 obj
+<<
+/F1 359 0 R
+/F2 360 0 R
+/F3 361 0 R
+/F4 362 0 R
+>>
+endobj
+359 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+360 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+361 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+362 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+363 0 obj
+<<
+/Contents 364 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 365 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+364 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1265
+>>
+stream
+Gat=*gMYb*&:Ml+bbMdh]U!ridisX>2F*1tN>;m9H(c\@@SDnfP-X(rr>sCrUeU2E@)*S@*1f1Rb`!5#ig%H+?4pOTo]Jq88P7[+P('<)fk6acBE+PLgRY)oNVZ4Z4MDZm";\Rg_(O#P2VEl'_%NG>9#`#RRYF)lTJIGD>aMad=qg&ObY#TkoS#:Y/DY'RYG>jq'@Zd$QmFo&dV_*nq!`j?8':h(o+s-3ll07acj_XS-d`)W>Bp+6kr?Io>o0RL30FYq8CJ_friE5pJ<QjV+glQGE=;VI/Y&.s],ei@6gKb8:WWY1X#NV%4jIE$qA6&.fOW@`CDAWr3])8b'U+u5+eC'#_mhXK:!E/pHGMaF3_/]dVa2S4RGjNN6kO!J>u#9nK+[@\,;Z5i<^M@$f-[/P/*UX?Scb;m*oF33'KN_>/.YAd/2&O^]TTD)QXr:\F7N?a(;dXGp=A%P3Z6u_0lTn+i)H/1.#%BLP>&U!Z/m>!9__'_9t?e?KajO,)M4:C-nBrMj/uI[8NZQ?_)t:*V:f.t`?*,jXXdspF:YM+6:BUqPL'!q;<[YUUVMV^J\<\fH+26C-Gspn=VJ0shF=hTWZ7i"h]]6E$]GEAD"JBRMDTrT(#u#_-!O!T+R($L130cjV(4hSJ!WJ\?H+g#CG35n`n7+C/;-IiR9XP2XK6sp*24HTV)N^u._S3cb\O%'@%`d;!P+3@@@LoMYOA'sriK(DFtGWfl6<eA(J?9%'gc@U:qA'.2Dp1f6%n,,mZ&6getg]c%V3%n_=Rd4Ad(+/*7oa=MH/b@=eW2@e-mhE/eLS'V8a`il$@Au2"CS?oH\[Pp\qT>(pXPV?Wj.R_E.Eh+kKGfIl&W&`R_!]UXnlE:8<&drlqk3i,);'=VE7A_:Up68t^<W^DC_i^GhYV=OH_&S91,$ZTpAFHYs#1f>R"%Rdtme$O$Q*.V&E+L\K964...3k`\;=L=W4K;aGP_PSlWR^Q2uMPi:K<l.b*'phqOY_DmdRkp";/bq.Ym0g'HX$q@kQ0m;YNKM`)G:S.cn_sTG='ul#)cHp+[fVUp'A/2[BAL49kn!TaQKm*"Z0"_(&qd\?W+()cYVVa>dYhC%O()8#9;oi*saaLhLpP/.-_2!LGRB2ETd<knHeZOHf)sI_I#TWo04CY7QGX=PDi=9_,$"XmJQXM$o%$?<'ZAoH@@9f`rlu=HO8Gf".5[FK[KT51<\Uo%g9IbuMaAtW'e48"Fm&Yl"dl!)kXj,k$rKUtUq[XlFmN)~>
+endstream
+endobj
+365 0 obj
+<<
+/F1 366 0 R
+/F2 367 0 R
+/F3 368 0 R
+>>
+endobj
+366 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+367 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+368 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+369 0 obj
+<<
+/Contents 370 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 371 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+370 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1371
+>>
+stream
+Gat=*gMYb,&:Df*m%\X[pfR)5c;Tid.2ni_dM);u5XA=!RgDOKn7'H:qX2e?S.qr."9oQ/'Zo$rSY7h&dk=?q=Ta%&i87<JA2t>=AAd78MD&pQSGdr'mG>LG^u[999dWpTRR%&S1uK-^1cK3:UPUi[Ps[IgV=L,mb"'.m--baC;*sG8">P*m5'coQHp@p\L9<%\C\TGS3Oe\gAt?T,O([Y=:cq)7%pZbNK91MVh^`g/X2.AL$tff`Qn"X\]ZtUJ)TInF_(<pQE;_RR"NCbWAt]XI_RK^H/YWcu)S_'[R<@qO$]lH,^PVQ&eDgCSBR"[2KP^mF<i]1ceq;:l%Aec<NM,Q+@uVgc1=E!\Tg;m[.^Pd\0+7\'A?]tCi@*dR1p1Ym4>fu#!DCRBoR$Q,E88d4=@;8`7hDm?6shP$'1f06D88ZP"Q;W[Ys2\rdWkS?Y@&B42J0533[L12poH9bREj*)n3G>4_@k>QI0okZ)6GC9q^UkI4&UDk,SZ-88J;Os#A@(hRWJ`Ml)@BVJMha@_eV_=gJV#Y95l;].t-k'?),1!`&D8O?cbj(QPpCm.\S\amuM3@)P>maD65itCFZ`"JfP')J];FN(&DgBXDjYeW<abL,6ICL4KMOb_X0/%86Xj<@8]IlPmV6"[YkoE(He.lFc4W1JgV"tNJlo$-,3WY8CMGhMWP%"<"aejig!%:Z<m^.@M>nt<n&R/_rHU_0&NYLTLT/D>#;]`TV`e.,+]@KVft'2S1pOmV$o>tHiNa+Iura1SrL',<MB^1Ce_Ko9pZ9!]HTCqUjnW<3`3.nYDc6#Q)=:H55)[7M3sRm6*XCEpd-4fRau[.,N$>gMPOI5)UhE?DS^gJIG.mpk;[#mMUJDXCT$C8UML>dVb`Ga[2<f;Z*mMraWS"uW`D>E<:2[U%3,5mcC$,)51`I2B\!E)[C>R$pC'Qi_>Q["s0.Fp_(T:ul+Le!6XUh136VY8:s;''lb_FS`^i]Rn?pU]66a/PQ."I?.%DVY`QG35AYLp#PmK4D'QTTWg<'WO-&&*t+eMCa]QIf?$nYE4L'i:((K'cn`s'XVmhBTfK6q6fQIKmbP+XjIO6nflr'b^fhrOeU8rADK+YJ0o92*`!p.7Q&#YQ,-VsGe[E5YiM=?3ZXX\@g$D;Dq%:?*Bgh:='Kb_f3p"m`^9\F4WP6QOW'5u"V`,TDJ6/,t9<aunC>g-VZHN.tY__)CG3R.g%7Ph9Z]iA96+*%O52W/L;&gUU5.-epQr]f50c+#nshNc'uo43emVdo]4a>]Gg&(p/Y&FG^>6&^AmT6qK$o$iYlPr%Jl@5P=_d8A'3soIesU;KP<*/W@W6`=NO_cT2$H2Z-iKl1[8hE:sYQ4t2H~>
+endstream
+endobj
+371 0 obj
+<<
+/F1 372 0 R
+/F2 373 0 R
+/F3 374 0 R
+>>
+endobj
+372 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+373 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+374 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+375 0 obj
+<<
+/Contents 376 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 377 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+376 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1305
+>>
+stream
+Gat=*?#LWC&:Mm.Qq)29jg#6snl2G[HAc[9V?sdD'iJV/=k:Q-Df'DjqWiL@9DE2B&k,=s`V.NDF3_uTU+SW,opt/3D^Y2'qhUu6-7MC^:7ijTl"Y80r?PS(*0+^bO#j&`q$8Wmd&dfEiWO1p9fP8Z&LsYk'LKcY#S[e1K-B)oBelU;V=7r+A[6E"/Y$HH@u]p^acH'[kkWGi,u%T`2a3_&T$l[=:&^m%pL4-UB70F"SXoM8U'kqknG6.]UB%Lj/e^[h&Y7B-NmHqKB5*b8::ej]WHf$7)YE3USX2gX-]"m=lUFuP]e/N%3/<+qcJO]ZkJp5o/*LiWW[`fcoYEZ<gsF3.P^u9B1_0c",p5iT2ljPWf]ASlB[QAJd99tGV-<u!'Q/onXM%;/<Bd#'P#mZ9-hW(k]Q?AUP@a[a19af1CZ>V_'?Z)WWNh]07Afd1ZjF]f.%XQdjp;/5QOBW\_(0(_0U-$:Nu:;D;&%Rq<XR16%?f#["Bi#c9gOZ'3Hpo_(qddW#=XG1FS2D*!c2*4pf3[VN:!u04[nI!0C)uDL;9)7Y>9X`7WW_mbqkOL@j'a#>\HWZ8hIfE9_DP]L`b9P!p7c4-n,oBTQD=a4@t1a]k#aj%JrV^\\VioI/WJoB8n52L9Dl8\*&'95[4$tNQV[Ks!X2G2FaJ+#MnG)T4.N'eF`!;1;4fZ\I(GG-8.dXjNUXJF`$Y%T5H<cD@*aI/VAE;@<.lj+4r\1Wm!?'rdXJ+rr/@Fg)>D\,e.I@4);GIN@=;/-L#6aRT&Gk+[![ofV5!YTp')tpIE8:qI/sl*=s5B"`T5DAnYmeP>$9t4AMASoNj6Ic45_N&STM,b&4N#]%][H*kE3X&r)@]7EfX"!h!o:\GUSAs0@Zc6\fGd_<m3`46nAdj-b'*[FObbn%(*@>?3N#ZO'$D.ueFSUno%%LlQ^AY&4RueB5tQD0#lKCXC[&9*D3`6HgpK;"Pm$S4P%*WgV2s[6ncW_1L,9NWH/'[bfKECWb?M^;*Et<SZj!]LktFM7$0185+(unB1OS3P]l,2c^iT?9khiS]J$^*6j.(1Z?n9llC80ACZ]EH@o'Kr0"9%/2'UAD!3#+1T1HX1NX[BBKBeFMe[_I[rc%u"Z;^2O>Htk0!LMS@]?`[n*d2/"Vg"%^duF49LK]uQ.ets9gqH<f8$(=FmSc+YLIQmgdDp;.AGiOSsb*.0c)7^_:/s##ULJgcKcM71Ytao+;@k:8V=lnZ?>R-?uomV)#WEIhT^X5C-uPI9%TV7lbl"U?l-acPLmY/O)O7Y5F)_KquSEK(qB~>
+endstream
+endobj
+377 0 obj
+<<
+/F1 378 0 R
+/F2 379 0 R
+/F3 380 0 R
+>>
+endobj
+378 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+379 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+380 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+381 0 obj
+<<
+/Contents 382 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 383 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+382 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1354
+>>
+stream
+Gat=*?#LWA'Re<2\<"!@/2KOXqQ`^,dNYN&;J*>b.PGDR_`2o-WBVNtfC,sf5^!g>+s]@lp:\N0S9lmqFn&)`HX7A6cKL=YKT_S*P*19l:Y@=ZZBLn.a_'`3OO!_pB/mO@iWL%.EP]joE&QC(_nd7b;G)Ze<18P,l(Bgla13g6"gtM$@oFWC\YX5g3c8W4n@fH]8RIl8VHV=1Tp9fMZ\K&5.!qcV,FuQ)!G(qL]g-dbd6!4<^tHNha.!P@][g*%RXcWnTSG?eUW[$$E!eR=Uh2s`(Do*(mle-TBP!eZ[N8UrbW+nV:qqnZI'CTchkg=knLL\Zd+`:MDif))X'S\tBr*uW`edmsil!7sFX-\q:$uraVrq[bk<Wq+E<+*M@^r6R&O_I[5BnHo<Ligtc[DI@)TbsJEl4:IR&2UL0d:u]Wk^5[bDMe!,"9eSP..D)19ascnsLfLN*P>bQK1M>/)j=4d%[2Tk]V'5dDn.jbNVk3KgTE#El"$).r8,f2:+c[7$<rU-PpgBm#%l_)JpHI3es(?r/SBqPpYnFjn0'g0u08<?`ZH=SS5NdXXFi?fA7NAI!.XB)j6.Q(uS"F/%Wrq=9uA[p]C1Zau1i]&`nnOp*StPE)ULM1R3UGi:WLHOg#p6KgSgZ-=,.K`SFF]q,WP]/&aI+gOX#b-("*AdTZ(/:c#^!_/O$fe7]`,Yr(Q5aRRc)V6DIRVdr-bK%MF.@7be.n!'X"TtMe;)=<%s.]ig,K.4FQ;naEpNAb;nC@kA!5mV;\J2WjHYrVb?`fgIYNJbsUP4*Z3]?RpseqJfC;?p+/AKG.7hNOaQ^`_;K>(hJ/gYN-l^Y`V_DrZ=:CI'(K.83I;i'2Xgb$=eqg'h?#_B.dQ5<M+>?K])\6!l3=SNb!th&6/.W43U$pF'p]%V?_$ch`A!UF5[YTq]rcI1^ZUK-mGBolDG3'f`-D3K:V`S^81Ude<Z2\,j&W:=^bq0ETgJZ=AC1=]eT\QISIFCG$4WQHbNr1"ZoRp-m.+D.s11A"sIKU-*XGM.`I$O<ZS1k]^-hFRW$c"s(:<Tj=Bqe?r@k`Nf'--etDs^#<o%`NrY-pcETTI$YHE>RFQ[1jG9i$]72K"a[ZZGPkT,Slam$,[i89U6N`VTI*c?1ET0D9ad^4-nI=sK-YWTd!$)H<Xa:`H"KAmhdG@bQJjVQ_oR+++kGhT#$ZBkCI>8&)_4c:gJeP-71kA<-rY'RhQF9`#Ejr+@#FU4?#&AXcX!b9a*b\\<Ap5+fh[/LFNGHND=3IN'j.YJS;h=#NL+NW*L`"Bk:$tG0O-'-`,:GK]Z+EZSM1@,<8Yf$n-6YZo^CP^c@qM_CIrX=0B;@4p&~>
+endstream
+endobj
+383 0 obj
+<<
+/F1 384 0 R
+/F2 385 0 R
+/F3 386 0 R
+>>
+endobj
+384 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+385 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+386 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+387 0 obj
+<<
+/Contents 388 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 389 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+388 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1232
+>>
+stream
+Gat=*9lJcG&A@7.bgB]UXsJSlZIj:tUd.g7[26O;6;qB0C5UN(P[3J(muUH69q03m@/*)5L[WK71F"9ok>r9\AHD;p'&J+3+A$"PL1JpU_X\JFQP][.,gFWV'IL_n2kA6k*5N$]\6q63*1Iq/j1p8-8g0UWUXCt=P`C'b$-2^IR6g".Gd4P"[gqhZo4[*Hk0G(,*c?YV<lSt7Tp,3!n\_t_Yl#!S5N)+c)9hH=?dIAaB7mPW!hG)&0P3?ToK)SKP^u=[K829(_dAIi70l$7>&Qsl1QDq/q[/lAUYQU&c9pcQYT?7]eh?TaN/g#M?5h,7Vbh"[3-l;q\2//PUA+bTW"]pO@V%#"#?+c\C>E[eQ(/(T)LK"mq@PmEgKF<5pRZaRT`BS,BF2)b0"@o0KV_2?QX5c>oEO*:P]GRkW<DI3Y=4<%+6>)Vq2WmIJSPD>Urh^UAo@<b^u!]qA>j0s(,K&mNWGZ&SPU'0-9q?tid"DsS$0k)p]04B"1[,c.YBlN:,Z__B.NQJ4Rt#.hp<]Or:[lrqb]n&m%Ffb?L,Ip_kIiggP*WF/[(i,NONAT[@jU=<lpF->?7'0SqK>]fn8Ubb_6FJEkk:UETrG9Z%ZJF7ObK!/&EJ&U!dUM\h]NQKu.T]f5AK6njXR9;.O?G:*hI$C:N7s.o?7.cmu,'Tp(dCgfr^X=#!q3k?*)UZB2?P=eTJsP*V>P27oNFYo.97Gt4sn%!SWYC[?Xd8(isblVSA!()40W6>:cr:`[&5=T,7.5RO4Ck4/?Z4XGaAN)gXX-5h*;MEdW&+7Ck@5?D)1rfX<7i'+P9/(WoHf$!nsp3Za[P)f?I&"RW!C<4K<b.3&i;<B$)"lpZpW!/KL+%o]rACHF!Pu9qe.^?h=bjd[pYDFrB8lh6F_S)j(q@Sg%P2YYG!05IIcIoJ3CrW>MX>jR*D"+PV1H(Z9\Hrt60YtAE$e!EA/Q`:55/:gd(f,9K/u`[))U-K:^!Zsh=WCj]*[Tk2^."?hEM8smofS<+#al>BGS(o$"(<5I5k/es)\)jH.j&DG#X6eRNFO9)TprFKe60,dS=`X5!7BZ2_B6-/7K1Z6mU5tDa6PsI)_SpurWUMe'HS#MU2S"EIq,44?Vu)=>d&&flg[0+P.B%O1R7D_A)[F=SXj.6ESl"ql,*AIqtX5.$DWHOU&i"m)/<)NU#\YnR(tp$1ll<f.1r#mZ,QG/(l<\$9hFngS)E9j=:tU"~>
+endstream
+endobj
+389 0 obj
+<<
+/F1 390 0 R
+/F2 391 0 R
+/F3 392 0 R
+>>
+endobj
+390 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+391 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+392 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+393 0 obj
+<<
+/Contents 394 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 395 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+394 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1167
+>>
+stream
+Gat=igMZ"A&;KZF'Ql2E1BNVSL`s<%-Hnbb[-Z_ab=uC]cpQP^q@JBp++C8-a+R_.g(=rQFB@($hd9ZL+QQ<tI:i`!I0q&\7hEY$/g)&8"%Xdn:9U7lU1WS-"N*M>N(,`NNo5Vq>0tGCNfDcQ33_>9@YdMQW&XJU`Rhs!OQ/YuF6G`Z`OQc;g;%nhQ8Et>q>4=A(;=7Gc]q\O@j_cHjRN1q8:Nu&!I=u`Yd-LhF/U_f5O&GQTd-bD(C";qP7/X+\'XrX_N!.]L[Z/$$/E3R:#InH\6OoSGjPa0m%pF!pk4B0AmI%1Yi[BL$di:'k`7hQ2S&(]@fO-+$np0Df6-^i_gEJq<m2&J>8CpMaBJC=U0T0Q]]qO)l$>#l##3ru;b_^*>"^jlKh$:X'8XLNBV5j.EdSR#:cm,jAh_uE]nLaVg)9W?<>;5bgAghUg-,VShsHI`gco:\Q/8(apFr#O(Fiq7J$2lJ6@8X.:2IN1Yqm'aRImJ/01t@\_&_e#lVk4QB"7ka5kU4QZtF^-bGaC?[kFi,N,(4N-mb-O\ui-U;PPNl.*6QsPg<<T,[K@*!gtiF0il@YXbBdZ'M_i:OW75&&AUt2B8%gRiSFmD$emEDauL1i!U=JI/7mCbg'YIO9UVc0PG.(#,oM2#(EQ+fV?sE)<e-26YeV6M*(jX`OKF<N#Nm"CE"cN1F0X,&Xp<--CP,SrBt./j-$LZXSJ@PQ.j2ARi.O1AZ%0)<!PZ.U!PU'lX<oL2&A&aqB"_ogRFSHlS,:6<[u[X8l3gYs[GL792`[,BAHR@h.rf(_j(fT73u/_TqsdiR[tIo/($b^K(]E[Won%*=".s=n]:+0&\S'mqGlh<rQlLfEj5qg&E\/'8$b>"_Onmb*.8sJb(O4Y2&%*2!*jEBo>qg'J1A;5RB[JeLUtW[]2><0SnPfSO/E;/rhfE\._c!P;>m526kF.>1]-?YEB7,_$^&TiaR$6ra!*jq.]86%G4tERk'npn3I,:c0JqC>u8[YspXPWc5i^/t/C,tTc5IimeNdJ6bmlh#p;oEp7;^G%_hR`]):UT_rNC6X\ggfpe2*ErsNu5=a?i];Q#u`q)J#u<heWQVfUo^.SoseKF]C6#4$e8)91s[@h2a`FC+fc]VDaA',`]4RN<XF-!Dl<W@L9#e(^PA"Z~>
+endstream
+endobj
+395 0 obj
+<<
+/F1 396 0 R
+/F2 397 0 R
+/F3 398 0 R
+/F4 399 0 R
+>>
+endobj
+396 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+397 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+398 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+399 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+400 0 obj
+<<
+/Contents 401 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 402 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+401 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1377
+>>
+stream
+Gat=*>BB'f&:Vs/fU$b@*C=W'E62=%k9MkJPZ,Y-?5.a=e]=&;,_tDRIscHO@iu47%1EY9X1`o<mO*c$co^mW8If^MJD\+r&4WmKL+j[eYdfIX`Q=1)YdGHH?lXrSa^dH+'=8AH%C80jZXN$W%d)h%JoJT0U50gYB7mNFSI8hf6LS);nRQ2$@c7i+*?)F<kkeB>$>r:p5&'rsO1crt7ZUoj^uB97r!'&\4t*c+o\RhFr'/lR^<d1!G8^mABKD#<=KJ0>Q&1ZFM?8$]U(LYC<<e"qL7;X$$`(JN:oMisbRq"27@:\:Q"VW0R4o,F:"B?Wr$^7GFP%o:IVUc(>"@)l1$f2+3dP'e2%7giQBH>m,1bGnP]4t&jQkSb9'\#L&)oM@0/J5s0:]qE$54ND1)rRsN!:l<0mM7s!tT5:<ngM5TjV1?cad>:mbNdKD1pB8mZqIQTNK<J!Vl=`pNMONY9MX[qVLf>ILb8>Lkq-cUPh(d&G"\$Wtuk)F/`Knlo4p@<=0Or:plLDh.JUo.r(3i],dDc;%>N5mpe=n&Z(m(4N1/bE@-pe@Ys8sBU/cF67JGC_Y$3;YkEVP$-F#^8/\j9-5Aj"ADu_sMe06mUCp21RLaKt=A123MZ]>^<B7%:F*OA?\jf+9m_oS-iM#1.=6)^4AKS-I9O4r<'3eF2;t"*$YN2<"d12O9TcG-<^j$b=`TCk.a,H%\N$o;W;'faj@:jV5el(0+_iKh5ha>Y"-)j%"=e[+*Yi%?70XM<^X^jb_,X.CrStrZF%lF]80S$dJ<1">UF=&aA(QFF&+se=ZQsX-Cgaq_'#m)$iehL^`DE.Ab8ki#FH^c?1(bE(79KF+U)c729gr`Y=+_5ik8O><bl)47#K>ChI@nADo_5P3?W;B&;oUD\o3eJX>MXctiZqrLQE5R1`[X',Ab,-Q%AXLA-\dZ%>@.$^RYc!_82QlnG#pI6l)'E)KbQ[$b5>+`,842GcJB]XVL(LU*OFsbJa3uU?rekrPnHSSB7#e"YpNEKbV1'O].sM[:L5Vt%`I!>oY6hE>Td[@H]amQ.'[SVOfnZpaWEWN/;KS9_(/IU2;o$P[F-^6>CK6/$a.(+B/@";X7tqL@)@\paa_cl@:AuMubN55>nkc],H9Bn&7,&8g\S[)3:\D$Cdh$S6/q##tWg]cN/RXlY8(5Gm?)0:[neJ,7d+!%+POuM?[6l_t2pP&ajWDC_XYO0oFLB>#:(^jkiU.hodHL@Zp+`lEKT\8lT3frrUg"@]Pdij`naP$%kVZPS,cmq[L%=GUn=7N9g\1V^oX;A!+I>^JZ3C18g#blL@%pA1[i/;I]"NBOY9`SC]j9kld%pQ%!H/l_l.%4GVU8[QD\W(3oPj@SJ5&QR~>
+endstream
+endobj
+402 0 obj
+<<
+/F1 403 0 R
+/F2 404 0 R
+/F3 405 0 R
+/F4 406 0 R
+>>
+endobj
+403 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+404 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+405 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+406 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+407 0 obj
+<<
+/Contents 408 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 409 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+408 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1487
+>>
+stream
+Gat=*gMZ"A&:Ml+eB:J.$5dRb+nM!"P<heT2L'GB<F2,;!Bk.@Hi!k31`ns42AhT'O:=_b].\<,cDf9QTLIb:\FL'd3e>Ua,D]f"Ae9*R*Ct'VR%4,%(2[Yio\cGW21*$[*j))d<\\"EB='Rs[\JNoD&#Ff$X:SifI/q%SmTjU(*k?Y#0a?O&cBbf*O?4bN"fQa!a"lNWH>05'0Ok*<nr-$oEg]LOSfTJ(OH_!5NqtW?1`WnFc&S6!F;JNCrMas:'AZGCAe=Z"/`R3O)`s/X(Q>^!bN:L\PPh,&'/9+&K*p-=bMY'WBa+Da36MVmngL1QA<8!0A@5of0eAPPBk)X*pnihO@QDSZ\J')0PpB(QD*7C=,P,-'AUH,1,mZ/gB'KjmC[f&Ci'1M2DuE71ZpHgm+=Thm4S$Wc!C^V!sS;84b<GKVcGd1T5^^+65#YJVjfDFB;cg*0S_0ehVtNNMpK^NchGNUb.,p_h$XIs'=^=C'1peFX(U4Mo_-^=\;af:CD.kXB\p'THu?;biS%M!NO<`KenEpLE3*-:Zg/2,[u74t-FGKTHV%=d8(_%'M)Ne[*cDdV.2oO9m0+YD$;dQ.V]57qG?_K9)moZO5arIIXTS=Kl)aZL)kD<CkT@2aj<^W<6GE%@+/-3\0Yes\F0n\U<JLTI@e#aI@Cc4E;^Ne"!Af*hMW'SQh`NC<f&b#d:NfA)$R@-_lYP0"a+AK54\l:L*\@#`a<!>&#q7n^,T$k^gleo<K*V;KW=B9k8t.3DAZ00CRr-9HZ>>P_Os$5J2OXkN8S7*e<I:^AcZ$e<Soj:kF!ia5N3Eq46"Ci\!Y[D-'>u$d@O]tA_'2_oLu0DN8QD,b;'hO'9QfR[p_ZpSSIeX$/IVAZm7H>O]]aIM2`d\:-)n_37:dqDOp5k5U]#SFEJ.bF#iGQem"'`m\%o'r/]%)`_K:RG%TKVPk#sKDW;gr?rl?rg;^!rm%6A'*3+^O\"NjK`dBLD,F]:g=d`rQd-ir_lBo@52<CWVXK-KZ5PAm_O%n>rn5M@W;;AF)&.ftpng0b=o.qc5jDiruK4suO,3Qba6`E_OsQ_\->0]l7LN`<4)NbU#arPQO-c&mpPi*kB.R/=1bFmr@,E5AEOc7%^Fg=23a:hNTU6\[<4rWQ%a17TW^>=BDog^fFO&\Z(L%^VkN5jlfj0(A;c5h<t"`kBh5he7fN,`bGFJu(YuXuFYs>u-#E+(!iV8Q""iq-$Y$nNsjY_r$N=dG=#Y@G([t^8.,>?ZWdDL0RBfkm_B/DP=`:G#-qeB/G_3Sh/#G+ZJX-/T]_GW9]DcK.YS3TuN]sZjX!g,%/8b0dH><_!MZecP7i_?T>TnNGfsR2Mb((jX7N=^h2QMP_&LAM@,6)2:,,g&f_i_o5DM8#G'ZBE1p@;efIlGbFNhb>3j+C*@qSqg,Xusq:"1,Z152QbpBW`L4_d=8(HLgoqjE4R/(-3TK2bdTV>Gi)1f,$NTPB*~>
+endstream
+endobj
+409 0 obj
+<<
+/F1 410 0 R
+/F2 411 0 R
+/F3 412 0 R
+/F4 413 0 R
+>>
+endobj
+410 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+411 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+412 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+413 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+414 0 obj
+<<
+/Contents 415 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 416 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+415 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1466
+>>
+stream
+Gat=*9lo;`&A@sBoHbqEKaABahAcIJFi@QR%*?VX6#+=@Bgt0?K&G?)T/RAu&7\7IW`3QS9_Y%N\mHt\2L[sfN&%-n.K+Q7:_;&s:-lA>V<K5\9eX4f"P]K"+Uu"KCH/sFiWL%Njap&VE&OZ4iF%C:+U(4T.L^`uYh/.LE3;paQl<HNM4'LRdaC'_*?0<$Gci<ql)RYN9^<uf2o9ajJ,](sVLR"c(V2_b!G&t*GDImH5No]?7>Dr?A\6J&YPR(*VJBr%/4An\Kl),G_`j&d$H(pZe"'+,@]V_t82$krA%E8<C#Y"PZ3BBq0TN_+e86;u(tegfV[!%eV>fE>4i6J*SQ[^sO%'Rj6\E_C<Y]Zf\\^n&cq'"8j()\-TcHMNlh=TMD<db5L?I9$_E!Wr06%[uVbb3=CKSF;;Q4s;5N(<[NTg[r]:7aSTVjVTA[SK<1oUEN;8:jqq]=CtfppoJq`(9&X?plUD7"WJ*VX4+<u#t#o,!t;Di$QeFfa2nMsH-#Fq;.Nm'qI>emM^SBZ,(nCY:k1lTtZ/TSSjh,*af$;g+h:GQgZa.\)ibS>Jt1#mr+?3\DU([3D3gAL(DIRjLHi$e06GLVcX$(4KVS^)'?$2O(HK;7;;q0u\I@S1jcVqQ)L3U.)V#SRIZVG;6%5SZK*ieQEs=QM9l)9o;&/2hZ@>W[aD+p?JQ]G6d<;^S?B>WPf(_T$I[RPX1<VXbG_f/hAqQWYJj6At*<I19]7l4a7u7LQWU&aRZ]#Mu?Kf7AR<si/he%_(DRpeY?5e'r<J%=P1Sd$PQa]?$@_hk>5b@?R6JcElD/&fp%Jt,!Mu"\(B<nk,fbk$p.TufqZR#<'EAA9VX#a"`!,53_hX#HrQ.GPaiOWk.%ALMN<E*UI?Tm3+2pG.Qlo&Yn==,pYHaI=K](c_:Pd(&bi/W)e5XE11l.!a;:2DQ<fbo?J\p2UZ#Gs=#FJ]r&7.0V\SY,G*;dKe_l'sET`*iDPV1\,W3;OlP_:siFLgEq7O`O.*(JSh5SD+R@;5LG\9=-9DkJGU)U>&lD1t]Vn_bVrY.fd]F?<PJ6-]K_JpEg9mXAlh)#ErAN"g6d-b;;2@Q%M,T=o<:K1Bk<l5btKIdthak!`00kA-R4VBE8A\Zh),?6VX&H9$lq!.[B11+UuT[?BQ<6Sn;VBZ2dFmNt7:Z`)2kBs0ZDE1Mc#5?%@<J7LdOjV`X#-K80K#BjE(TfgUXF(t[H1[rl\59G\4'C2CK^lE1%A%`q@O@g\O`+l!#6/i&K4C:C00.o6dT.H5kV6@g&1eKW+WIP[>Bir,3gLB&J];UOkA=!@-`%*(k@a!u.7WjM4&ileWOWrq-WB_&4LT1]b/AW]ES[@U2A0Eoa@E'[d(496?oBT,X9Mftk%q0=>+9*'`HE4HWLgqa2!?M!)f./Qnmu&dS+XZ=dVaI7Esclp`DFZ:GoT,XmtIhidi6c1Mgk`e`,p&~>
+endstream
+endobj
+416 0 obj
+<<
+/F1 417 0 R
+/F2 418 0 R
+/F3 419 0 R
+/F4 420 0 R
+>>
+endobj
+417 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+418 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+419 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+420 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+421 0 obj
+<<
+/Contents 422 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 423 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+422 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1451
+>>
+stream
+Gat=*gMZ%0&:Ml+bY&=^iHQ[E^2M;6]0LtFM&1T^$Va?+2O(/%Pe@S#j#]W_ZBI8j2E"sY]Z^f13HN7Y,5T=<=69K1;tt_P6_(sa*o^M(#Lc=*T,p-:`LE.1&Ia#+B/CNfBEq7"@DZVHZo>/*dDh\C,nQ+s<0D3nUu1DIBjV"l'O#.dMj[T9_82CU*\Daik]`_>$%IgVSJh#!GHE,_#'Z\'_=V*%rW1'c@SgWce+\-1nc,Sk(CiLclAhW7P`,j\(oBr>S^'[G2'iji--6-6:R+B,Rc1p#<.QlMK0gYU<K;#J*5\h];MC-G^)#9eIogd2+V,;L(jG:T?VV&bHfoWSI_t3eJXat%h$mTCP>^Z"@TG2^!`ta=!P_R`F;ur5O^m?Y;@'u,9"JkrLT9YNqOM:u_Je$Amu>SGpR'D)`'J(K!uR"YUG]\I#i(48QdE>:(.GB`$moQMi$V2rr]Rs*g=FW&qX_$7gB7FA88mjpH26.T/UYM]q8K"B"ZA"4C39:jY_,TPc'!0go'I<pcS=hT0RZTcnOB/#Lf)N3kap?sV5TJRQ)I9(%_MhY<BVLEdnjL)16E^ng]gj)S@#<gaqUuf,$bcYat`l2(KaX-K1--qO>%#K+/)(AGV17.'pbJc-L`\-",771.%rLe"_$LtH'Fo9lnf%u)Xe^CK3F;10/-7hcVAMP>-U=%f33DO[jcZB3;t>elq!NZ*XOVmhBWq4E%A5pS3Xd>.[tc=KULKN4;/TR!8\(Y5j3&MY+.F20r3&dBYT.`UfTq73i1,p*'n7#j3Tl\A*kHJ9bVD.1W$#R-,lCldLqf*SZhX@X]ufjl1M[W,*T*Zl.21f!%,3IBbdmoKD0&AjYGN<6Y"j2rNpJSnspE-G(__RPT?<%j4/n<#f7k'@YpEE?I+DsdMdtf"TZ:Rb4!R9PSS"tKiOP7jsdedgAB^A;jNkLbV\`C0FqA0TVC@f<J](?=-po^?&c45a28G9Ec"NSaWT$HW:P*'ZrZPX*9DfRc8VU@]V"m,>-89Ba)Gq@WD1eMq/HM(B96eomD^%R;HMi&Qc=:h?3mZ2mK&V<4BD++Y6`=/j@mHK.k-e66L8Zu$&a>HctIVT5j$'>#`#^k'I/PCaWs5f[$#f(>KeQKXBmd55jt5(dBIu=m/3n5;_igZU$)r+#l4'6V5?m+k%4oM;o-m]Ca/(B7L!-07b^BqG*7qJoT3LF0/l?-;Nq2^F'jP`-O_jcRL(Y1!Dup*k"HUjiMmH%:6#Th+d<`u[3dV.DZ.9oZf4HKU&B_?E-3L._cAc`\W$_<_iNO'KjmO]n$de*-,?HFKSS;B@Uk<Ah-Z8^@A5@_R5;Lc22N_QGOkUmi7jQ/C@SQ,(,mFMenQW)Fe8iBD\_+mG]in`#cl+=,IjaapK=ssNe/)U9\5+qjX&_(%[M0Hn[N/W`f;(U.LMO4@msGAFh]1-NrB.5NI;9~>
+endstream
+endobj
+423 0 obj
+<<
+/F1 424 0 R
+/F2 425 0 R
+/F3 426 0 R
+/F4 427 0 R
+>>
+endobj
+424 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+425 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+426 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+427 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 428
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000688 00000 n 
+0000000737 00000 n 
+0000001001 00000 n 
+0000004820 00000 n 
+0000004927 00000 n 
+0000005034 00000 n 
+0000005146 00000 n 
+0000005265 00000 n 
+0000005371 00000 n 
+0000005638 00000 n 
+0000006701 00000 n 
+0000006809 00000 n 
+0000007079 00000 n 
+0000010926 00000 n 
+0000011034 00000 n 
+0000011142 00000 n 
+0000011255 00000 n 
+0000011375 00000 n 
+0000011481 00000 n 
+0000011751 00000 n 
+0000013187 00000 n 
+0000013295 00000 n 
+0000013565 00000 n 
+0000017136 00000 n 
+0000017244 00000 n 
+0000017352 00000 n 
+0000017465 00000 n 
+0000017585 00000 n 
+0000017691 00000 n 
+0000017961 00000 n 
+0000019527 00000 n 
+0000019635 00000 n 
+0000019905 00000 n 
+0000023306 00000 n 
+0000023414 00000 n 
+0000023522 00000 n 
+0000023635 00000 n 
+0000023755 00000 n 
+0000023861 00000 n 
+0000024131 00000 n 
+0000024843 00000 n 
+0000024951 00000 n 
+0000025221 00000 n 
+0000029093 00000 n 
+0000029201 00000 n 
+0000029309 00000 n 
+0000029422 00000 n 
+0000029542 00000 n 
+0000029648 00000 n 
+0000029918 00000 n 
+0000030509 00000 n 
+0000030617 00000 n 
+0000030887 00000 n 
+0000035027 00000 n 
+0000035135 00000 n 
+0000035243 00000 n 
+0000035356 00000 n 
+0000035476 00000 n 
+0000035582 00000 n 
+0000035852 00000 n 
+0000039134 00000 n 
+0000039242 00000 n 
+0000039350 00000 n 
+0000039463 00000 n 
+0000039583 00000 n 
+0000039689 00000 n 
+0000039959 00000 n 
+0000041055 00000 n 
+0000041163 00000 n 
+0000041433 00000 n 
+0000044982 00000 n 
+0000045090 00000 n 
+0000045198 00000 n 
+0000045311 00000 n 
+0000045431 00000 n 
+0000045537 00000 n 
+0000045807 00000 n 
+0000046848 00000 n 
+0000046956 00000 n 
+0000047226 00000 n 
+0000050836 00000 n 
+0000050944 00000 n 
+0000051052 00000 n 
+0000051165 00000 n 
+0000051285 00000 n 
+0000051391 00000 n 
+0000051661 00000 n 
+0000052389 00000 n 
+0000052497 00000 n 
+0000052767 00000 n 
+0000056125 00000 n 
+0000056233 00000 n 
+0000056341 00000 n 
+0000056454 00000 n 
+0000056574 00000 n 
+0000056680 00000 n 
+0000056951 00000 n 
+0000058385 00000 n 
+0000058494 00000 n 
+0000058771 00000 n 
+0000062437 00000 n 
+0000062546 00000 n 
+0000062655 00000 n 
+0000062769 00000 n 
+0000062890 00000 n 
+0000062997 00000 n 
+0000063274 00000 n 
+0000063877 00000 n 
+0000063986 00000 n 
+0000064263 00000 n 
+0000068336 00000 n 
+0000068445 00000 n 
+0000068554 00000 n 
+0000068668 00000 n 
+0000068789 00000 n 
+0000068896 00000 n 
+0000069173 00000 n 
+0000072690 00000 n 
+0000072799 00000 n 
+0000072908 00000 n 
+0000073022 00000 n 
+0000073143 00000 n 
+0000073250 00000 n 
+0000073527 00000 n 
+0000077318 00000 n 
+0000077427 00000 n 
+0000077536 00000 n 
+0000077650 00000 n 
+0000077771 00000 n 
+0000077878 00000 n 
+0000078155 00000 n 
+0000081753 00000 n 
+0000081862 00000 n 
+0000081971 00000 n 
+0000082085 00000 n 
+0000082206 00000 n 
+0000082313 00000 n 
+0000082590 00000 n 
+0000083069 00000 n 
+0000083178 00000 n 
+0000083455 00000 n 
+0000087253 00000 n 
+0000087362 00000 n 
+0000087471 00000 n 
+0000087585 00000 n 
+0000087706 00000 n 
+0000087813 00000 n 
+0000088090 00000 n 
+0000091587 00000 n 
+0000091696 00000 n 
+0000091805 00000 n 
+0000091919 00000 n 
+0000092040 00000 n 
+0000092147 00000 n 
+0000092424 00000 n 
+0000096367 00000 n 
+0000096476 00000 n 
+0000096585 00000 n 
+0000096699 00000 n 
+0000096820 00000 n 
+0000096927 00000 n 
+0000097204 00000 n 
+0000097697 00000 n 
+0000097806 00000 n 
+0000098011 00000 n 
+0000098419 00000 n 
+0000098466 00000 n 
+0000098575 00000 n 
+0000098689 00000 n 
+0000098894 00000 n 
+0000100423 00000 n 
+0000100506 00000 n 
+0000100615 00000 n 
+0000100729 00000 n 
+0000100850 00000 n 
+0000100929 00000 n 
+0000101036 00000 n 
+0000101241 00000 n 
+0000101534 00000 n 
+0000101739 00000 n 
+0000103340 00000 n 
+0000103411 00000 n 
+0000103520 00000 n 
+0000103634 00000 n 
+0000103755 00000 n 
+0000103862 00000 n 
+0000104067 00000 n 
+0000104344 00000 n 
+0000104549 00000 n 
+0000105952 00000 n 
+0000106023 00000 n 
+0000106132 00000 n 
+0000106246 00000 n 
+0000106367 00000 n 
+0000106474 00000 n 
+0000106679 00000 n 
+0000107109 00000 n 
+0000107314 00000 n 
+0000109095 00000 n 
+0000109166 00000 n 
+0000109275 00000 n 
+0000109389 00000 n 
+0000109510 00000 n 
+0000109617 00000 n 
+0000109822 00000 n 
+0000110225 00000 n 
+0000110430 00000 n 
+0000111679 00000 n 
+0000111750 00000 n 
+0000111859 00000 n 
+0000111973 00000 n 
+0000112094 00000 n 
+0000112201 00000 n 
+0000112406 00000 n 
+0000112709 00000 n 
+0000112914 00000 n 
+0000113991 00000 n 
+0000114062 00000 n 
+0000114171 00000 n 
+0000114285 00000 n 
+0000114406 00000 n 
+0000114513 00000 n 
+0000114718 00000 n 
+0000115261 00000 n 
+0000115466 00000 n 
+0000117014 00000 n 
+0000117085 00000 n 
+0000117194 00000 n 
+0000117308 00000 n 
+0000117429 00000 n 
+0000117536 00000 n 
+0000117741 00000 n 
+0000118068 00000 n 
+0000118273 00000 n 
+0000119832 00000 n 
+0000119903 00000 n 
+0000120012 00000 n 
+0000120126 00000 n 
+0000120247 00000 n 
+0000120354 00000 n 
+0000120559 00000 n 
+0000121108 00000 n 
+0000121313 00000 n 
+0000122939 00000 n 
+0000122998 00000 n 
+0000123107 00000 n 
+0000123221 00000 n 
+0000123300 00000 n 
+0000123505 00000 n 
+0000125401 00000 n 
+0000125460 00000 n 
+0000125569 00000 n 
+0000125683 00000 n 
+0000125762 00000 n 
+0000125967 00000 n 
+0000127391 00000 n 
+0000127462 00000 n 
+0000127571 00000 n 
+0000127685 00000 n 
+0000127806 00000 n 
+0000127913 00000 n 
+0000128118 00000 n 
+0000129553 00000 n 
+0000129624 00000 n 
+0000129733 00000 n 
+0000129847 00000 n 
+0000129968 00000 n 
+0000130075 00000 n 
+0000130280 00000 n 
+0000131771 00000 n 
+0000131842 00000 n 
+0000131951 00000 n 
+0000132065 00000 n 
+0000132186 00000 n 
+0000132293 00000 n 
+0000132498 00000 n 
+0000133837 00000 n 
+0000133908 00000 n 
+0000134017 00000 n 
+0000134131 00000 n 
+0000134252 00000 n 
+0000134359 00000 n 
+0000134564 00000 n 
+0000136130 00000 n 
+0000136201 00000 n 
+0000136310 00000 n 
+0000136424 00000 n 
+0000136545 00000 n 
+0000136652 00000 n 
+0000136857 00000 n 
+0000138451 00000 n 
+0000138522 00000 n 
+0000138631 00000 n 
+0000138745 00000 n 
+0000138866 00000 n 
+0000138973 00000 n 
+0000139178 00000 n 
+0000140772 00000 n 
+0000140855 00000 n 
+0000140964 00000 n 
+0000141078 00000 n 
+0000141199 00000 n 
+0000141306 00000 n 
+0000141391 00000 n 
+0000141596 00000 n 
+0000143101 00000 n 
+0000143160 00000 n 
+0000143269 00000 n 
+0000143383 00000 n 
+0000143504 00000 n 
+0000143709 00000 n 
+0000144118 00000 n 
+0000144323 00000 n 
+0000145491 00000 n 
+0000145562 00000 n 
+0000145671 00000 n 
+0000145785 00000 n 
+0000145906 00000 n 
+0000146013 00000 n 
+0000146218 00000 n 
+0000147818 00000 n 
+0000147889 00000 n 
+0000147998 00000 n 
+0000148112 00000 n 
+0000148233 00000 n 
+0000148340 00000 n 
+0000148545 00000 n 
+0000149798 00000 n 
+0000149869 00000 n 
+0000149978 00000 n 
+0000150092 00000 n 
+0000150213 00000 n 
+0000150320 00000 n 
+0000150525 00000 n 
+0000151893 00000 n 
+0000151964 00000 n 
+0000152073 00000 n 
+0000152187 00000 n 
+0000152308 00000 n 
+0000152415 00000 n 
+0000152620 00000 n 
+0000154101 00000 n 
+0000154172 00000 n 
+0000154281 00000 n 
+0000154395 00000 n 
+0000154516 00000 n 
+0000154623 00000 n 
+0000154828 00000 n 
+0000156206 00000 n 
+0000156277 00000 n 
+0000156386 00000 n 
+0000156500 00000 n 
+0000156621 00000 n 
+0000156728 00000 n 
+0000156933 00000 n 
+0000158448 00000 n 
+0000158519 00000 n 
+0000158628 00000 n 
+0000158742 00000 n 
+0000158863 00000 n 
+0000158970 00000 n 
+0000159175 00000 n 
+0000160534 00000 n 
+0000160593 00000 n 
+0000160702 00000 n 
+0000160816 00000 n 
+0000160937 00000 n 
+0000161142 00000 n 
+0000162607 00000 n 
+0000162666 00000 n 
+0000162775 00000 n 
+0000162889 00000 n 
+0000163010 00000 n 
+0000163215 00000 n 
+0000164614 00000 n 
+0000164673 00000 n 
+0000164782 00000 n 
+0000164896 00000 n 
+0000165017 00000 n 
+0000165222 00000 n 
+0000166670 00000 n 
+0000166729 00000 n 
+0000166838 00000 n 
+0000166952 00000 n 
+0000167073 00000 n 
+0000167278 00000 n 
+0000168604 00000 n 
+0000168663 00000 n 
+0000168772 00000 n 
+0000168886 00000 n 
+0000169007 00000 n 
+0000169212 00000 n 
+0000170473 00000 n 
+0000170544 00000 n 
+0000170653 00000 n 
+0000170767 00000 n 
+0000170888 00000 n 
+0000170995 00000 n 
+0000171200 00000 n 
+0000172671 00000 n 
+0000172742 00000 n 
+0000172851 00000 n 
+0000172965 00000 n 
+0000173086 00000 n 
+0000173193 00000 n 
+0000173398 00000 n 
+0000174979 00000 n 
+0000175050 00000 n 
+0000175159 00000 n 
+0000175273 00000 n 
+0000175394 00000 n 
+0000175501 00000 n 
+0000175706 00000 n 
+0000177266 00000 n 
+0000177337 00000 n 
+0000177446 00000 n 
+0000177560 00000 n 
+0000177681 00000 n 
+0000177788 00000 n 
+0000177993 00000 n 
+0000179538 00000 n 
+0000179609 00000 n 
+0000179718 00000 n 
+0000179832 00000 n 
+0000179953 00000 n 
+trailer
+<<
+/Size 428
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+180060
+%%EOF
